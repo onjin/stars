@@ -1555,6 +1555,7 @@
 
 ## others 
 
+- [NachoNievaG/atac.nvim](https://github.com/NachoNievaG/atac.nvim) - 
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [PablocFonseca/streamlit-aggrid](https://github.com/PablocFonseca/streamlit-aggrid) - Implementation of Ag-Grid component for Streamlit
