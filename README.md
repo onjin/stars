@@ -576,6 +576,7 @@
 
 ## Python 
 
+- [IST-DASLab/PanzaMail](https://github.com/IST-DASLab/PanzaMail) - 
 - [hynek/hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Fancy PyPI READMEs with Hatch
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -701,7 +702,7 @@
 - [puyuan/py-nanoid](https://github.com/puyuan/py-nanoid) - Python Nanoid
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns your Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fas
 - [svix/python-ksuid](https://github.com/svix/python-ksuid) - A pure-Python KSUID implementation
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - 🛠 Python project template generator with batteries included
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
