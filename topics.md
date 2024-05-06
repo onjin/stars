@@ -1567,6 +1567,7 @@
 
 ## others 
 
+- [delaneyj/datastar](https://github.com/delaneyj/datastar) - 
 - [IST-DASLab/PanzaMail](https://github.com/IST-DASLab/PanzaMail) - 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - A tool to automatically generate a NixOS config from a Docker Compose project.
