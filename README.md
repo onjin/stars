@@ -181,6 +181,7 @@
 
 ## Go 
 
+- [delaneyj/datastar](https://github.com/delaneyj/datastar) - 
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - A tool to automatically generate a NixOS config from a Docker Compose project.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
