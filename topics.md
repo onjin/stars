@@ -64,6 +64,7 @@
 - [emoji](#emoji)
 - [es6](#es6)
 - [finance](#finance)
+- [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
 - [font](#font)
@@ -103,6 +104,7 @@
 - [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [localization](#localization)
 - [low-code](#low-code)
 - [lua](#lua)
@@ -278,6 +280,7 @@
 
 ## automation 
 
+- [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
@@ -394,10 +397,12 @@
 
 ## chrome-extension 
 
+- [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [ccampbell/chromelogger](https://github.com/ccampbell/chromelogger) - chrome extension for server side console logging
 
 ## cli 
 
+- [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -760,6 +765,10 @@
 
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and fast
+
+## firefox 
+
+- [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 
 ## flask 
 
@@ -1151,6 +1160,7 @@
 
 ## javascript 
 
+- [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -1328,6 +1338,13 @@
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [knorrie/network-examples](https://github.com/knorrie/network-examples) - Linux networking examples and tutorials
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
+
+## llm 
+
+- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
+- [StavC/ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 
 ## localization 
 
@@ -1567,6 +1584,8 @@
 
 ## others 
 
+- [NixOS/bundlers](https://github.com/NixOS/bundlers) - 
+- [ofirgall/tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions
 - [timonweb/pytailwindcss](https://github.com/timonweb/pytailwindcss) - 
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -1637,7 +1656,6 @@
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
 - [ljmill/tokyo-night-icons](https://github.com/ljmill/tokyo-night-icons) - Beautiful icons themed in Tokyo Night
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [atsuyuki/dactyl-manuform-skeleton-edition-4x5](https://github.com/atsuyuki/dactyl-manuform-skeleton-edition-4x5) - 
 - [cjolowicz/cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Hypermodern Python Cookiecutter
@@ -2118,6 +2136,7 @@
 
 ## python 
 
+- [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [hynek/hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Fancy PyPI READMEs with Hatch
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
