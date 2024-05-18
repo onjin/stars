@@ -337,7 +337,7 @@
 - [apssouza22/trading-system](https://github.com/apssouza22/trading-system) - An open-source backtesting and live trading platform for using to foreign exchange
 - [mattia-battiston/clean-architecture-example](https://github.com/mattia-battiston/clean-architecture-example) - Clean Architecture Example (Java): Example of what clean architecture would look like (in Java)
 - [ddd-by-examples/library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
-- [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
+- [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
 - [neurolabs/henplus](https://github.com/neurolabs/henplus) - HenPlus is a SQL shell that can handle multiple sessions in parallel. The commandline interface with the usual history functions features TAB-completion for commands, tables and columns. Database conn
 - [jenkinsci/docker-build-publish-plugin](https://github.com/jenkinsci/docker-build-publish-plugin) - 
 - [kontaktio/kontakt-beacon-admin-sample-app](https://github.com/kontaktio/kontakt-beacon-admin-sample-app) - Sample application demonstrating kontakt.io' Android SDK functionalities. The application comprises:
