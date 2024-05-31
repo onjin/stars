@@ -437,6 +437,7 @@
 
 ## Lua 
 
+- [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥
 - [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
@@ -588,6 +589,7 @@
 
 ## Python 
 
+- [apmorton/pyhidapi](https://github.com/apmorton/pyhidapi) - hidapi bindings in ctypes
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
