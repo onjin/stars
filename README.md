@@ -591,6 +591,7 @@
 
 ## Python 
 
+- [ideos/gloe](https://github.com/ideos/gloe) - Gloe (pronounced /ɡloʊ/, like “glow”) is a general-purpose library made to help developers create, maintain, document, and test both operational and flow-oriented code.
 - [apmorton/pyhidapi](https://github.com/apmorton/pyhidapi) - hidapi bindings in ctypes
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
@@ -1051,6 +1052,7 @@
 
 ## Rust 
 
+- [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust implementation of Magic Wormhole, with new features and enhancements
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -1076,7 +1078,7 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
-- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [litestar-org/fast-query-parsers](https://github.com/litestar-org/fast-query-parsers) - Ultra-fast query string and url-encoded form-data parsers
