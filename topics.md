@@ -572,7 +572,7 @@
 
 ## data-science 
 
-- [ideos/gloe](https://github.com/ideos/gloe) - Gloe (pronounced /ɡloʊ/, like “glow”) is a general-purpose library made to help developers create, maintain, document, and test both operational and flow-oriented code.
+- [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
 - [run-ai/genv](https://github.com/run-ai/genv) - GPU environment and cluster management with LLM support
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -1415,7 +1415,7 @@
 
 ## machine-learning 
 
-- [ideos/gloe](https://github.com/ideos/gloe) - Gloe (pronounced /ɡloʊ/, like “glow”) is a general-purpose library made to help developers create, maintain, document, and test both operational and flow-oriented code.
+- [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -2186,7 +2186,7 @@
 
 ## python 
 
-- [ideos/gloe](https://github.com/ideos/gloe) - Gloe (pronounced /ɡloʊ/, like “glow”) is a general-purpose library made to help developers create, maintain, document, and test both operational and flow-oriented code.
+- [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
 - [sfermigier/awesome-dependency-injection-in-python](https://github.com/sfermigier/awesome-dependency-injection-in-python) - A curated list of awesome things related to dependency inversion / dependency injection in Python. (Contributions welcomed).
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
