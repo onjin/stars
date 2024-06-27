@@ -691,6 +691,7 @@
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [run-ai/genv](https://github.com/run-ai/genv) - GPU environment and cluster management with LLM support
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
