@@ -2136,6 +2136,7 @@
 
 ## postgresql 
 
+- [qaspen-python/psqlpy](https://github.com/qaspen-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 - [pycr/pythongrid](https://github.com/pycr/pythongrid) - Easy datagrid for Python Flask web framework
@@ -2407,6 +2408,7 @@
 
 ## python3 
 
+- [qaspen-python/psqlpy](https://github.com/qaspen-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python) - Python SDK for CloudEvents
@@ -2541,6 +2543,7 @@
 
 ## rust 
 
+- [qaspen-python/psqlpy](https://github.com/qaspen-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust implementation of Magic Wormhole, with new features and enhancements
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
