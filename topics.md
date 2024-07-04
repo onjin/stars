@@ -653,6 +653,7 @@
 
 ## django 
 
+- [Bwc9876/Djazztro](https://github.com/Bwc9876/Djazztro) - The web stack for astronauts with deadlines.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [originalankur/awesome-django-admin](https://github.com/originalankur/awesome-django-admin) - Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -1582,6 +1583,7 @@
 
 ## node 
 
+- [Bwc9876/Djazztro](https://github.com/Bwc9876/Djazztro) - The web stack for astronauts with deadlines.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
@@ -2195,6 +2197,7 @@
 
 ## python 
 
+- [Bwc9876/Djazztro](https://github.com/Bwc9876/Djazztro) - The web stack for astronauts with deadlines.
 - [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
 - [sfermigier/awesome-dependency-injection-in-python](https://github.com/sfermigier/awesome-dependency-injection-in-python) - A curated list of awesome things related to dependency inversion / dependency injection in Python. (Contributions welcomed).
@@ -2797,6 +2800,7 @@
 
 ## typescript 
 
+- [Bwc9876/Djazztro](https://github.com/Bwc9876/Djazztro) - The web stack for astronauts with deadlines.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
