@@ -71,6 +71,7 @@
 
 ## C 
 
+- [duckyb/zmk-sweep](https://github.com/duckyb/zmk-sweep) - Ferris Sweep ZMK Configuration
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
 - [clibs/entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FI
