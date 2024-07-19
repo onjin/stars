@@ -842,7 +842,7 @@
 - [ApplauseOSS/djangoevents](https://github.com/ApplauseOSS/djangoevents) - 
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [chainside/btcpy](https://github.com/chainside/btcpy) - A Python3 SegWit-compliant library which provides tools to handle Bitcoin data structures in a simple fashion.
-- [fauna/faunadb-python](https://github.com/fauna/faunadb-python) - Python driver for Fauna v4
+- [fauna/faunadb-python](https://github.com/fauna/faunadb-python) - Python driver for Fauna v4 (deprecated)
 - [nirvik/iWant](https://github.com/nirvik/iWant) - Commandline tool for searching and downloading files in LAN network, without any central server
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [containerbuildsystem/atomic-reactor](https://github.com/containerbuildsystem/atomic-reactor) - Simple python library for building docker images.
