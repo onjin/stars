@@ -1643,7 +1643,7 @@
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [duckyb/zmk-sweep](https://github.com/duckyb/zmk-sweep) - Ferris Sweep ZMK Configuration
-- [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) - A drop-in replacement for SQS designed for great developer experience and efficiency.
+- [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) - An improved drop-in replacement for SQS
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
 - [j4mie/hotmetal](https://github.com/j4mie/hotmetal) - A tiny HTML generator 🔥🤘
 - [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet
