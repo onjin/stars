@@ -628,7 +628,7 @@
 - [StavC/ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
 - [florimondmanca/httpx-sse](https://github.com/florimondmanca/httpx-sse) - Consume Server-Sent Event (SSE) messages with HTTPX
-- [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client for Python
+- [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client written in Python
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [hyperdiv/hyperdiv](https://github.com/hyperdiv/hyperdiv) - Build reactive web UIs in Python
 - [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
