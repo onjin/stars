@@ -894,7 +894,7 @@
 - [zatosource/zato](https://github.com/zatosource/zato) - ESB, SOA, REST, APIs and Cloud Integrations in Python
 - [morepath/morepath-cookiecutter](https://github.com/morepath/morepath-cookiecutter) - A Cookiecutter Template for Morepath
 - [morepath/morepath](https://github.com/morepath/morepath) - Python web microframework with superpowers
-- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
+- [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [blha303/DO-runin](https://github.com/blha303/DO-runin) - A tool that starts a DigitalOcean droplet in a given region and runs a given command, displaying the output.
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [mvantellingen/python-zeep](https://github.com/mvantellingen/python-zeep) - A Python SOAP client
@@ -1065,6 +1065,7 @@
 
 ## Rust 
 
+- [letmutex/htmd-cli](https://github.com/letmutex/htmd-cli) - The command line tool for htmd
 - [zsa/kontroll](https://github.com/zsa/kontroll) - Kontroll demonstates how to control the Keymapp API, making it easy to control your ZSA keyboard from the command line and scripts.
 - [psqlpy-python/psqlpy](https://github.com/psqlpy-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
