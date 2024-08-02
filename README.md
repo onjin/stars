@@ -599,7 +599,7 @@
 ## Python 
 
 - [kodemore/kink](https://github.com/kodemore/kink) - Dependency injection container made for Python
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, written in Rust
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, written in Rust. (Also available in pure Python)
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
 - [j4mie/hotmetal](https://github.com/j4mie/hotmetal) - A tiny HTML generator 🔥🤘
