@@ -600,9 +600,9 @@
 ## Python 
 
 - [kodemore/kink](https://github.com/kodemore/kink) - Dependency injection container made for Python
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, written in Rust. (Also available in pure Python)
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, available in Rust or pure Python
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
-- [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
+- [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [j4mie/hotmetal](https://github.com/j4mie/hotmetal) - A tiny HTML generator 🔥🤘
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
