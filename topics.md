@@ -1815,7 +1815,7 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
-- [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the GitOps Working Group which are versioned and released together (including the GitOps Principles and Glossary)
+- [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the OpenGitOps project which are versioned and released together (including the GitOps Principles and Glossary)
 - [xbrowsersync/api-docker](https://github.com/xbrowsersync/api-docker) - xBrowserSync API for Docker
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
