@@ -541,7 +541,7 @@
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-- [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the GitOps Working Group which are versioned and released together (including the GitOps Principles and Glossary)
+- [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the OpenGitOps project which are versioned and released together (including the GitOps Principles and Glossary)
 - [infinityworks/prometheus-example-queries](https://github.com/infinityworks/prometheus-example-queries) - Simple place for people to provide examples of queries they've found useful.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [markknol/console-log-viewer](https://github.com/markknol/console-log-viewer) - Displays logs and Javascript errors in an overlay on top of your site. Useful for mobile webdevelopment. Enabled in 5 seconds
