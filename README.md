@@ -449,7 +449,7 @@
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥
 - [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - A Neovim plugin helping you establish good command workflow and quit bad habit
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit
 - [NachoNievaG/atac.nvim](https://github.com/NachoNievaG/atac.nvim) - 
 - [jc-doyle/cmp-pandoc-references](https://github.com/jc-doyle/cmp-pandoc-references) - A source for nvim-cmp, providing completion for bibliography, reference and cross-ref items in Pandoc/Markdown.
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
