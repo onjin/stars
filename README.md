@@ -41,6 +41,7 @@
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PlantUML](#plantuml)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Reason](#reason)
 - [Red](#red)
@@ -596,6 +597,10 @@
 ## PlantUML 
 
 - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
+
+## PowerShell 
+
+- [StefanScherer/windows-docker-machine](https://github.com/StefanScherer/windows-docker-machine) - Work with Windows containers and LCOW on Mac/Linux/Windows
 
 ## Python 
 
