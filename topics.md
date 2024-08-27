@@ -2896,6 +2896,7 @@
 
 ## vagrant 
 
+- [StefanScherer/windows-docker-machine](https://github.com/StefanScherer/windows-docker-machine) - Work with Windows containers and LCOW on Mac/Linux/Windows
 - [ianmiell/shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers
 
 ## vim 
