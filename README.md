@@ -396,6 +396,7 @@
 - [linagora/hublin](https://github.com/linagora/hublin) - DEPRECATED - An easy and free video conference service based on WebRTC
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [maxmx/bootstrap-stylus](https://github.com/maxmx/bootstrap-stylus) - Port of Bootstrap to Stylus
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [cozy-labs/cozy-light](https://github.com/cozy-labs/cozy-light) - Personal Server Made Easy
 - [stephenlb/webrtc-sdk](https://github.com/stephenlb/webrtc-sdk) - WebRTC Simple Calling API + Mobile SDK - A simplified approach to RTCPeerConnection for mobile and web video calling apps.
 - [cer/event-sourcing-examples](https://github.com/cer/event-sourcing-examples) - Example code for my building and deploying microservices with event sourcing, CQRS and Docker presentation
@@ -1175,6 +1176,7 @@
 
 ## Shell 
 
+- [message-db/message-db](https://github.com/message-db/message-db) - Microservice native message and event store for Postgres
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
@@ -1294,7 +1296,6 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - [ARCHIVED] A JavaScript library to draw pretty git graphs in the browser
 
 ## V 
