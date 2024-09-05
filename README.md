@@ -730,7 +730,6 @@
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [bhch/django-jsonform](https://github.com/bhch/django-jsonform) - A better, user-friendly JSON editing form field for Django admin. Also supports Postgres ArrayField.
 - [tobymao/saq](https://github.com/tobymao/saq) - Simple Async Queues
-- [litestar-org/litestar-pg-redis-docker](https://github.com/litestar-org/litestar-pg-redis-docker) - Example Litestar project using Postgresql, Redis and Docker
 - [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [Pylons/pyramid_openapi3](https://github.com/Pylons/pyramid_openapi3) - Pyramid addon for OpenAPI3 validation of requests and responses.
