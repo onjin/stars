@@ -45,6 +45,7 @@
 - [Python](#python)
 - [Reason](#reason)
 - [Red](#red)
+- [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -1048,6 +1049,10 @@
 ## Red 
 
 - [red/red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cros
+
+## Rich Text Format 
+
+- [EPLHREU/emily-modifiers](https://github.com/EPLHREU/emily-modifiers) - A Plover python dictionary allowing for consistent modified key entry for any letter, symbol or keyboard shortcut.
 
 ## Roff 
 
