@@ -1118,6 +1118,7 @@
 - [streamdal/plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
@@ -1837,7 +1838,6 @@
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [archcraft-os/archcraft-i3wm](https://github.com/archcraft-os/archcraft-i3wm) - // Configuration : I3wm
 - [puyuan/py-nanoid](https://github.com/puyuan/py-nanoid) - Python Nanoid
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [scratchnative/scratchOS](https://github.com/scratchnative/scratchOS) - Basic operating system written in Scratch3
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
