@@ -1070,6 +1070,7 @@
 
 ## hacktoberfest 
 
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
 - [catppuccin/plymouth](https://github.com/catppuccin/plymouth) - 🚗 Soothing pastel theme for Plymouth
 - [catppuccin/mc](https://github.com/catppuccin/mc) - 🌜 Soothing pastel theme for Midnight Commander
@@ -1692,6 +1693,7 @@
 
 ## others 
 
+- [flamenco108/plover_polish_slowik](https://github.com/flamenco108/plover_polish_slowik) - Here I will work on Polish plugin for Plover.
 - [Troels51/dtui](https://github.com/Troels51/dtui) - Small TUI for introspecting the state of the system/session dbus
 - [EPLHREU/emily-modifiers](https://github.com/EPLHREU/emily-modifiers) - A Plover python dictionary allowing for consistent modified key entry for any letter, symbol or keyboard shortcut.
 - [message-db/message-db](https://github.com/message-db/message-db) - Microservice native message and event store for Postgres
