@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Crystal](#crystal)
 - [D2](#d2)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -168,6 +169,10 @@
 - [yakyak/yakyak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts
 - [paradoxxxzero/butterfly](https://github.com/paradoxxxzero/butterfly) - A web terminal based on websocket and tornado
 - [buttercoin/buttercoin](https://github.com/buttercoin/buttercoin) - Opensource Bitcoin Exchange Software
+
+## Crystal 
+
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## D2 
 
@@ -604,6 +609,7 @@
 
 ## Python 
 
+- [flamenco108/plover_polish_slowik](https://github.com/flamenco108/plover_polish_slowik) - Here I will work on Polish plugin for Plover.
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [kodemore/kink](https://github.com/kodemore/kink) - Dependency injection container made for Python
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, available in Rust or pure Python
