@@ -82,7 +82,6 @@
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [alex-courtis/way-displays](https://github.com/alex-courtis/way-displays) - way-displays: Auto Manage Your Wayland Displays
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [drhsqlite/pikchr](https://github.com/drhsqlite/pikchr) - Mirror for Pikchr
 - [letoram/arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
@@ -226,6 +225,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [cashapp/hermit](https://github.com/cashapp/hermit) - 🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
@@ -745,7 +745,7 @@
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [bhch/django-jsonform](https://github.com/bhch/django-jsonform) - A better, user-friendly JSON editing form field for Django admin. Also supports Postgres ArrayField.
 - [tobymao/saq](https://github.com/tobymao/saq) - Simple Async Queues
-- [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications
+- [Kludex/mangum](https://github.com/Kludex/mangum) - AWS Lambda support for ASGI applications
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [Pylons/pyramid_openapi3](https://github.com/Pylons/pyramid_openapi3) - Pyramid addon for OpenAPI3 validation of requests and responses.
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
