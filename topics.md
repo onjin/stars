@@ -1139,7 +1139,7 @@
 - [streamdal/plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Passwordless-First Authentication APIs & Embeddable UI Components. Convert Your Visitors into Users.
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
