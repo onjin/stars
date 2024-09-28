@@ -220,7 +220,7 @@
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [open-feature/flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -585,7 +585,6 @@
 - [chrisgillis/vim-bootstrap3-snippets](https://github.com/chrisgillis/vim-bootstrap3-snippets) - Twitter Bootstrap 3 Snippets for Vim
 - [samalba/hipache-nginx](https://github.com/samalba/hipache-nginx) - Dynamic HTTP routing with Nginx and Redis (reimplements Hipache with Nginx using the Lua module)
 - [0xAX/erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) - All about erlang programming language [powerd by community]
-- [onjin/ansible](https://github.com/onjin/ansible) - Model-driven configuration management, multi-node deployment, and remote task execution system
 - [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [maciekcz/dropbox-uploader](https://github.com/maciekcz/dropbox-uploader) - Dropbox uploader
 - [onjin/django-buildout-template](https://github.com/onjin/django-buildout-template) - Simple django buildout + virtualenv layout template
