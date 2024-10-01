@@ -519,6 +519,7 @@
 
 ## Nix 
 
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [NixOS/bundlers](https://github.com/NixOS/bundlers) - 
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
@@ -1265,7 +1266,7 @@
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits
 - [Bwc9876/Djazztro](https://github.com/Bwc9876/Djazztro) - The web stack for astronauts with deadlines.
-- [olvidalo/obsidian-chord-sheets](https://github.com/olvidalo/obsidian-chord-sheets) - Work with chord sheets (chords over lyrics) in Obsidian: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode.
+- [olvidalo/obsidian-chord-sheets](https://github.com/olvidalo/obsidian-chord-sheets) - Work with chord sheets (chords over lyrics or inline in brackets) in Obsidian: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
