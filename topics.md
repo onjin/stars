@@ -339,7 +339,7 @@
 
 ## aws 
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -353,7 +353,7 @@
 
 ## azure 
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
@@ -732,6 +732,7 @@
 
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥
+- [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -1117,6 +1118,7 @@
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
@@ -1737,6 +1739,9 @@
 
 ## others 
 
+- [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
+- [crazazy/aoc2020](https://github.com/crazazy/aoc2020) - Advent of Code done in the nix language
+- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - 
@@ -1776,7 +1781,6 @@
 - [delaneyj/datastar](https://github.com/delaneyj/datastar) - 
 - [IST-DASLab/PanzaMail](https://github.com/IST-DASLab/PanzaMail) - 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [NachoNievaG/atac.nvim](https://github.com/NachoNievaG/atac.nvim) - 
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
@@ -2798,7 +2802,7 @@
 
 ## serverless 
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency.
 - [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python) - Python SDK for CloudEvents
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [Kludex/mangum](https://github.com/Kludex/mangum) - AWS Lambda support for ASGI applications
