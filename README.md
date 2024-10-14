@@ -237,7 +237,7 @@
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [streamdal/plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The complete Authentication and User Management solution for developers.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
@@ -771,7 +771,7 @@
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python
 - [danielfm/pybreaker](https://github.com/danielfm/pybreaker) - Python implementation of the Circuit Breaker pattern.
-- [pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the py.test runner
+- [pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the pytest runner
 - [DavHau/mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments
 - [heuer/qrcode-artistic](https://github.com/heuer/qrcode-artistic) - Segno plugin to convert (Micro) QR Codes to Pillow/PIL
 - [heuer/segno](https://github.com/heuer/segno) - Python QR Code and Micro QR Code encoder
