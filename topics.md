@@ -557,6 +557,7 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
+- [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -1771,6 +1772,7 @@
 
 ## others 
 
+- [shemeshg/pass-simple-qt](https://github.com/shemeshg/pass-simple-qt) - Pass Simple - similar to QtPass, Multi-platform GUI for pass, the standard unix password manager
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [sqlc-dev/sqlc-gen-python](https://github.com/sqlc-dev/sqlc-gen-python) - 
