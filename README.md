@@ -793,6 +793,7 @@
 - [heuer/qrcode-artistic](https://github.com/heuer/qrcode-artistic) - Segno plugin to convert (Micro) QR Codes to Pillow/PIL
 - [heuer/segno](https://github.com/heuer/segno) - Python QR Code and Micro QR Code encoder
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
+- [archcraft-os/archcraft-i3wm](https://github.com/archcraft-os/archcraft-i3wm) - // Configuration : I3wm
 - [puyuan/py-nanoid](https://github.com/puyuan/py-nanoid) - Python Nanoid
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
@@ -1251,7 +1252,6 @@
 - [jrcharney/ArchWSLPlusPlus](https://github.com/jrcharney/ArchWSLPlusPlus) - 
 - [klaushofrichter/k3d-prometheus-lens](https://github.com/klaushofrichter/k3d-prometheus-lens) - 
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
-- [archcraft-os/archcraft-i3wm](https://github.com/archcraft-os/archcraft-i3wm) - // Configuration : I3wm
 - [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [bloomberg/git-adventure-game](https://github.com/bloomberg/git-adventure-game) - An adventure game to help people learn Git
