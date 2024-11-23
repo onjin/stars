@@ -147,7 +147,6 @@
 
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
-- [delaneyj/datastar](https://github.com/delaneyj/datastar) - 
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [nickmilo/LYT-Mode](https://github.com/nickmilo/LYT-Mode) - LYT Mode is for "Linking Your Thinking". It invokes sensemaking and lateral thinking.
 - [catppuccin/spicetify](https://github.com/catppuccin/spicetify) - 🎧 Soothing pastel theme for Spotify
@@ -205,6 +204,7 @@
 
 ## Go 
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [sqlc-dev/sqlc-gen-python](https://github.com/sqlc-dev/sqlc-gen-python) - 
@@ -340,6 +340,7 @@
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [onjin/onjin.github.io](https://github.com/onjin/onjin.github.io) - 
 - [ergo/crossroadsjs-router](https://github.com/ergo/crossroadsjs-router) - DISCONTINUED - Polymer element for crossroads.js router
 - [alps-io/spec](https://github.com/alps-io/spec) - ALPS Specification documents.
@@ -395,7 +396,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages by an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [ar9t4/react-native-boilerplate](https://github.com/ar9t4/react-native-boilerplate) - Start your new React-Native application with this React-Native boilerplate template.
 - [haxtheweb/webcomponents](https://github.com/haxtheweb/webcomponents) - Monorepo of webcomponents and associated microservice apis
 - [bhch/react-json-form](https://github.com/bhch/react-json-form) - JSON editing made easy using form inputs.
@@ -462,7 +463,7 @@
 
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
-- [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
+- [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 
 ## Just 
@@ -591,7 +592,6 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [infinityworks/prometheus-example-queries](https://github.com/infinityworks/prometheus-example-queries) - Simple place for people to provide examples of queries they've found useful.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -1143,6 +1143,8 @@
 
 ## Rust 
 
+- [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
@@ -1324,6 +1326,7 @@
 - [olvidalo/obsidian-chord-sheets](https://github.com/olvidalo/obsidian-chord-sheets) - Work with chord sheets (chords over lyrics or inline in brackets) in Obsidian: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
+- [starfederation/datastar](https://github.com/starfederation/datastar) - A real-time hypermedia framework.
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
