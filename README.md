@@ -256,7 +256,7 @@
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [streamdal/plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
@@ -656,6 +656,9 @@
 
 ## Python 
 
+- [klen/asgi-tools](https://github.com/klen/asgi-tools) - Tools to build ASGI apps
+- [encode/typesystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering. 🔢
+- [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python rendering engine.
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
 - [piccolo-orm/piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database.
 - [litestar-org/dtos](https://github.com/litestar-org/dtos) - Domain modelling at the edge.
@@ -1250,7 +1253,7 @@
 
 ## Scala 
 
-- [OpenBankProject/OBP-API](https://github.com/OpenBankProject/OBP-API) - An open source RESTful API platform for banks that supports Open Banking, XS2A and PSD2 through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of i
+- [OpenBankProject/OBP-API](https://github.com/OpenBankProject/OBP-API) - An open source RESTful API platform for banks that supports Open Banking, XS2A, PSD2 and Open Finance through access to accounts, transactions, counterparties, payments, entitlements and metadata - pl
 - [pocorall/scaloid](https://github.com/pocorall/scaloid) - Scaloid makes your Android code easy to understand and maintain.
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) - Scala School 2
 
@@ -1318,6 +1321,7 @@
 
 ## TypeScript 
 
+- [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
 - [robbie-cahill/tunnelmole-service](https://github.com/robbie-cahill/tunnelmole-service) - Give local web servers a public URL
