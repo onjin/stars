@@ -204,6 +204,7 @@
 
 ## Go 
 
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [keybase/saltpack](https://github.com/keybase/saltpack) - a modern crypto messaging format
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
