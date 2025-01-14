@@ -380,6 +380,7 @@
 
 ## bash 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -461,6 +462,7 @@
 
 ## cli 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
@@ -1022,7 +1024,7 @@
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool. Built in go, it tears through API specs faster than you can think. vacuum is compatible with Spectral rule
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [loopholelabs/frpc-go](https://github.com/loopholelabs/frpc-go) - fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood
@@ -1070,7 +1072,7 @@
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool. Built in go, it tears through API specs faster than you can think. vacuum is compatible with Spectral rule
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -1534,7 +1536,7 @@
 
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [StavC/ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 
 ## localization 
@@ -1695,11 +1697,12 @@
 
 ## neovim 
 
+- [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf, LuaJIT, or other profilers.
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - A highly modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [Kurama622/markdown-org](https://github.com/Kurama622/markdown-org) - Run code in markdown
-- [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim) - The most comprehensive dotenv integration for NeoVim
+- [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
 - [nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim) - ❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb]
 - [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager that supports a normal config directory ... that can easily output mulitiple configured packages! (with example config(s) and in-editor help)
@@ -1837,6 +1840,10 @@
 
 ## others 
 
+- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) - Fastest and Most Efficient IDE to run Jupyter Notebooks.
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
+- [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM & SmolLM2 family of models
 - [jvns/git-commit-folders](https://github.com/jvns/git-commit-folders) - 
 - [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
@@ -2838,6 +2845,7 @@
 
 ## rust 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
@@ -2981,6 +2989,7 @@
 
 ## shell 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -3078,6 +3087,7 @@
 
 ## terminal 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [kyu08/fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes commands using fuzzy finder with preview window for make, pnpm, yarn, just.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
