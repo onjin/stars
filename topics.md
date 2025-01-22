@@ -91,6 +91,7 @@
 - [graphql](#graphql)
 - [gulp](#gulp)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -377,6 +378,7 @@
 
 ## backend 
 
+- [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
@@ -467,7 +469,7 @@
 
 ## cli 
 
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
@@ -837,6 +839,7 @@
 
 ## documentation 
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [terrastruct/d2-docs](https://github.com/terrastruct/d2-docs) - Language documentation and blog for D2.
@@ -933,6 +936,8 @@
 
 ## framework 
 
+- [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python rendering engine.
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1025,6 +1030,7 @@
 
 ## go 
 
+- [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
@@ -1073,6 +1079,7 @@
 
 ## golang 
 
+- [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
@@ -1157,13 +1164,16 @@
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
+## hacking-tool 
+
+- [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
+
 ## hacking-tools 
 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 
 ## hacktoberfest 
 
-- [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [frappe/frappe-ui](https://github.com/frappe/frappe-ui) - A set of components and utilities for rapid UI development
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [piccolo-orm/piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database.
@@ -1440,6 +1450,7 @@
 
 ## kubernetes 
 
+- [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -1656,6 +1667,7 @@
 
 ## material-design 
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
@@ -2861,7 +2873,7 @@
 
 ## rust 
 
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
@@ -3104,7 +3116,7 @@
 
 ## terminal 
 
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [kyu08/fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes commands using fuzzy finder with preview window for make, pnpm, yarn, just.
