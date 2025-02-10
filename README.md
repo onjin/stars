@@ -76,6 +76,7 @@
 
 ## C 
 
+- [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [antirez/load81](https://github.com/antirez/load81) - SDL based Lua programming environment for kids similar to Codea
@@ -208,6 +209,8 @@
 
 ## Go 
 
+- [hexya-erp/hexya](https://github.com/hexya-erp/hexya) - Hexya business application development framework
+- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 - [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
@@ -681,6 +684,7 @@
 
 ## Python 
 
+- [ariga/atlas-provider-django](https://github.com/ariga/atlas-provider-django) - Django provider for atlasgo.io
 - [joshua-auchincloss/hatch-cython](https://github.com/joshua-auchincloss/hatch-cython) - cython hooks for hatch
 - [k9securityio/cedar-py](https://github.com/k9securityio/cedar-py) - Python bindings for the Cedar Policy project.
 - [Permify/permify-python](https://github.com/Permify/permify-python) - Permify Python Client
