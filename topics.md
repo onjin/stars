@@ -784,6 +784,7 @@
 
 ## docker 
 
+- [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -941,6 +942,7 @@
 
 ## framework 
 
+- [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -1036,6 +1038,8 @@
 
 ## go 
 
+- [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
+- [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [hexya-erp/hexya](https://github.com/hexya-erp/hexya) - Hexya business application development framework
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) - Go Practical Tips
 - [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
@@ -1087,6 +1091,7 @@
 
 ## golang 
 
+- [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [hexya-erp/hexya](https://github.com/hexya-erp/hexya) - Hexya business application development framework
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) - Go Practical Tips
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
@@ -1517,6 +1522,7 @@
 
 ## library 
 
+- [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [brainix/pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
 - [reubano/pygogo](https://github.com/reubano/pygogo) - A Python logging library with superpowers
 - [lpereira/lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
@@ -1524,6 +1530,7 @@
 
 ## linux 
 
+- [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -1573,7 +1580,7 @@
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [StavC/ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 
 ## localization 
 
@@ -1832,7 +1839,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [bloomberg/wsk-notify](https://github.com/bloomberg/wsk-notify) - Simple, customizable console notifications.
@@ -1884,6 +1891,7 @@
 
 ## others 
 
+- [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [ariga/atlas-provider-django](https://github.com/ariga/atlas-provider-django) - Django provider for atlasgo.io
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
@@ -2908,6 +2916,7 @@
 
 ## rust 
 
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
@@ -3322,6 +3331,7 @@
 
 ## web 
 
+- [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python rendering engine.
