@@ -32,6 +32,7 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
@@ -367,7 +368,6 @@
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [Enveloppe/mkdocs-publisher-template](https://github.com/Enveloppe/mkdocs-publisher-template) - The template for Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs.
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [onjin/onjin.github.io](https://github.com/onjin/onjin.github.io) - 
@@ -556,6 +556,10 @@
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
+
+## MDX 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Makefile 
 
