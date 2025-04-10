@@ -55,9 +55,9 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
-- [Scheme](#scheme)
 - [Shell](#shell)
 - [Swift](#swift)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vala](#vala)
@@ -361,6 +361,7 @@
 
 ## HTML 
 
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [onjin/YubiKey-Guide](https://github.com/onjin/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [greggshorthand/greggshorthand.github.io](https://github.com/greggshorthand/greggshorthand.github.io) - 
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
@@ -408,6 +409,7 @@
 - [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
 - [neurolabs/henplus](https://github.com/neurolabs/henplus) - HenPlus is a SQL shell that can handle multiple sessions in parallel. The commandline interface with the usual history functions features TAB-completion for commands, tables and columns. Database conn
 - [jenkinsci/docker-build-publish-plugin](https://github.com/jenkinsci/docker-build-publish-plugin) - 
+- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [kontaktio/kontakt-beacon-admin-sample-app](https://github.com/kontaktio/kontakt-beacon-admin-sample-app) - Sample application demonstrating kontakt.io' Android SDK functionalities. The application comprises:
 - [BottegaIT/ddd-leaven-v2](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CqRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing
 
@@ -706,6 +708,8 @@
 
 ## Python 
 
+- [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
+- [alisaifee/limits](https://github.com/alisaifee/limits) - Rate limiting using various strategies and storage backends such as redis, memcached & mongodb
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [litestar-org/pytest-databases](https://github.com/litestar-org/pytest-databases) - Reusable database fixtures for any and all databases.
 - [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
@@ -777,7 +781,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [brainix/pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [PablocFonseca/streamlit-aggrid](https://github.com/PablocFonseca/streamlit-aggrid) - Implementation of Ag-Grid component for Streamlit
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
@@ -821,7 +825,7 @@
 - [emmett-framework/emmett](https://github.com/emmett-framework/emmett) - The web framework for inventors
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
-- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
@@ -1055,7 +1059,7 @@
 - [morepath/morepath](https://github.com/morepath/morepath) - Python web microframework with superpowers
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [blha303/DO-runin](https://github.com/blha303/DO-runin) - A tool that starts a DigitalOcean droplet in a given region and runs a given command, displaying the output.
-- [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+- [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [mvantellingen/python-zeep](https://github.com/mvantellingen/python-zeep) - A Python SOAP client
 - [ianmiell/shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
@@ -1242,7 +1246,7 @@
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another nix cli helper
-- [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+- [veloren/veloren](https://github.com/veloren/veloren) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitL
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
@@ -1286,7 +1290,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [litestar-org/fast-query-parsers](https://github.com/litestar-org/fast-query-parsers) - Ultra-fast query string and url-encoded form-data parsers
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
@@ -1350,10 +1354,6 @@
 - [pocorall/scaloid](https://github.com/pocorall/scaloid) - Scaloid makes your Android code easy to understand and maintain.
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) - Scala School 2
 
-## Scheme 
-
-- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
-
 ## Shell 
 
 - [message-db/message-db](https://github.com/message-db/message-db) - Microservice native message and event store for Postgres
@@ -1400,7 +1400,6 @@
 - [spotify/docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [tripflex/inodes](https://github.com/tripflex/inodes) - Bash/Shell script to count inode usage
 - [nhoffman/argparse-bash](https://github.com/nhoffman/argparse-bash) - Use python's argparse module in shell scripts
-- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers)
@@ -1412,6 +1411,10 @@
 ## Swift 
 
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
+
+## Tree-sitter Query 
+
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 
 ## TypeScript 
 
@@ -1446,7 +1449,7 @@
 - [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) - 💨 Soothing pastel theme for Tailwind CSS
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
