@@ -232,6 +232,7 @@
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [StavC/ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
@@ -379,7 +380,7 @@
 
 ## aws 
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-native alternative to Kafka by decoupling durability to cloud storage services like S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. M
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -394,7 +395,7 @@
 ## azure 
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-native alternative to Kafka by decoupling durability to cloud storage services like S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. M
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
@@ -496,7 +497,7 @@
 
 ## cli 
 
-- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
+- [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [hamdanal/rich-argparse](https://github.com/hamdanal/rich-argparse) - A rich help formatter for argparse
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -619,7 +620,7 @@
 
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
@@ -729,7 +730,7 @@
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
-- [kurrent-io/EventStore](https://github.com/kurrent-io/EventStore) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
+- [kurrent-io/KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 
 ## deep-learning 
 
@@ -1251,7 +1252,7 @@
 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
-- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
+- [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [frappe/frappe-ui](https://github.com/frappe/frappe-ui) - A set of components and utilities for rapid UI development
@@ -1448,7 +1449,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -1492,7 +1493,7 @@
 
 ## json 
 
-- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
+- [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1578,7 +1579,7 @@
 ## language 
 
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [red/red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cros
@@ -1645,6 +1646,7 @@
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [StavC/ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
@@ -1826,7 +1828,7 @@
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [Kurama622/markdown-org](https://github.com/Kurama622/markdown-org) - Run code in markdown
-- [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
+- [t3ntxcl3s/ecolog.nvim](https://github.com/t3ntxcl3s/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
 - [nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim) - ❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb]
 - [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager that supports a normal config directory ... that can easily output mulitiple configured packages! (with example config(s) and in-editor help)
@@ -1972,6 +1974,7 @@
 
 ## others 
 
+- [webtui/webtui](https://github.com/webtui/webtui) - 
 - [litestar-org/pytest-databases](https://github.com/litestar-org/pytest-databases) - Reusable database fixtures for any and all databases.
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [cerbos/query-plan-adapters](https://github.com/cerbos/query-plan-adapters) - Repo of adapters converting a Cerbos Query Plan to a data fetching layer
@@ -3047,7 +3050,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -3162,7 +3165,7 @@
 ## serverless 
 
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-native alternative to Kafka by decoupling durability to cloud storage services like S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. M
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python) - Python SDK for CloudEvents
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [Kludex/mangum](https://github.com/Kludex/mangum) - AWS Lambda support for ASGI applications
