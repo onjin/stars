@@ -497,6 +497,7 @@
 
 ## cli 
 
+- [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [hamdanal/rich-argparse](https://github.com/hamdanal/rich-argparse) - A rich help formatter for argparse
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -1092,6 +1093,7 @@
 
 ## go 
 
+- [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
