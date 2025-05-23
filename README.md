@@ -1250,6 +1250,7 @@
 
 ## Rust 
 
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [AllexVeldman/pyoci](https://github.com/AllexVeldman/pyoci) - Publish and install private python packages using OCI/docker registries.
 - [jo/hyperwood](https://github.com/jo/hyperwood) - Hyperwood is an open-source system for crafting furniture from simple wooden slats.
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
@@ -1386,7 +1387,7 @@
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [mcdonc/.nixconfig](https://github.com/mcdonc/.nixconfig) - NixOS configurations for my personal systems
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime]
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [jrcharney/ArchWSLPlusPlus](https://github.com/jrcharney/ArchWSLPlusPlus) - 
 - [klaushofrichter/k3d-prometheus-lens](https://github.com/klaushofrichter/k3d-prometheus-lens) - 
