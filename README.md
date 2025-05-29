@@ -380,7 +380,6 @@
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [onjin/onjin.github.io](https://github.com/onjin/onjin.github.io) - 
 - [ergo/crossroadsjs-router](https://github.com/ergo/crossroadsjs-router) - DISCONTINUED - Polymer element for crossroads.js router
 - [alps-io/spec](https://github.com/alps-io/spec) - ALPS Specification documents.
@@ -719,6 +718,7 @@
 
 ## Python 
 
+- [python-attrs/cattrs](https://github.com/python-attrs/cattrs) - Composable custom class converters for attrs, dataclasses and friends.
 - [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -949,6 +949,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [onjin/ejpiaj](https://github.com/onjin/ejpiaj) - api testing suite
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [Kludex/fastapi-microservices](https://github.com/Kludex/fastapi-microservices) - Fully Python async FastAPI project! 🚀
