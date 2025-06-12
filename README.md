@@ -1135,7 +1135,7 @@
 - [vertical-knowledge/ripozo](https://github.com/vertical-knowledge/ripozo) - A tool for quickly creating REST/HATEOAS/Hypermedia APIs in python
 - [morepath/morepath_sqlalchemy](https://github.com/morepath/morepath_sqlalchemy) - SQLAlchemy integration for Morepath
 - [jeffknupp/flask_sandboy](https://github.com/jeffknupp/flask_sandboy) - Sandman's little brother
-- [jazzband/django-waffle](https://github.com/jazzband/django-waffle) - A feature flipper for Django
+- [django-waffle/django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django
 - [disqus/gargoyle](https://github.com/disqus/gargoyle) - Feature switches in Django
 - [Eyepea/API-Hour](https://github.com/Eyepea/API-Hour) - Write efficient network daemons (HTTP, SSH...) with ease.
 - [assertpy/assertpy](https://github.com/assertpy/assertpy) - Simple assertion library for unit testing in python with a fluent API
