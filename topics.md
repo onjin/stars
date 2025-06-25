@@ -1853,7 +1853,7 @@
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [Kurama622/markdown-org](https://github.com/Kurama622/markdown-org) - Run code in markdown
-- [t3ntxcl3s/ecolog.nvim](https://github.com/t3ntxcl3s/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
+- [ssstba/ecolog.nvim](https://github.com/ssstba/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
 - [nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim) - ❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb]
 - [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager that supports a normal config directory ... that can easily output mulitiple configured packages! (with example config(s) and in-editor help)
@@ -1997,6 +1997,7 @@
 ## operating-system 
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much bloat and legacy as possible while being usable in most usecases
 
 ## osint 
 
@@ -3108,7 +3109,7 @@
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much bloat and legacy as possible while being usable in most usecases
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [litestar-org/fast-query-parsers](https://github.com/litestar-org/fast-query-parsers) - Ultra-fast query string and url-encoded form-data parsers
