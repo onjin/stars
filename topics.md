@@ -246,7 +246,7 @@
 - [StavC/ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -334,7 +334,7 @@
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
 - [SerpentAI/SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
 
@@ -492,7 +492,7 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 
 ## chrome 
 
@@ -1093,7 +1093,7 @@
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [dolthub/doltgresql](https://github.com/dolthub/doltgresql) - DoltgreSQL - Version Controlled PostgreSQL
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - 🛠 Python project template generator with batteries included
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
@@ -2225,7 +2225,7 @@
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [archcraft-os/archcraft-i3wm](https://github.com/archcraft-os/archcraft-i3wm) - // Configuration : I3wm
 - [puyuan/py-nanoid](https://github.com/puyuan/py-nanoid) - Python Nanoid
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system with flexible APIs and UI web components. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [scratchnative/scratchOS](https://github.com/scratchnative/scratchOS) - Basic operating system written in Scratch3
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
@@ -2371,7 +2371,7 @@
 - [aFarkas/webshim](https://github.com/aFarkas/webshim) - [DEPRECATED] Webshims Lib is a modular capability-based polyfill-loading library
 - [ebrakke/python-redux](https://github.com/ebrakke/python-redux) - 
 - [kespindler/albatross](https://github.com/kespindler/albatross) - A modern, fast, simple async python3 web framework
-- [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+- [forwardemail/superagent](https://github.com/forwardemail/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [pricingassistant/rq-dashboard](https://github.com/pricingassistant/rq-dashboard) - Flask-based web front-end for monitoring RQ queues.
 - [morepath/morepath_wiki](https://github.com/morepath/morepath_wiki) - A wiki demo based on web micro-framework battle by Richard Jones
@@ -2652,7 +2652,7 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [hyprland-community/pyprland](https://github.com/hyprland-community/pyprland) - Scratchpads & many goodies for Hyprland [maintainer=@fdev31]
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 
 ## programming 
 
