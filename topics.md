@@ -270,7 +270,7 @@
 
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
@@ -278,6 +278,7 @@
 
 ## android 
 
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -763,7 +764,7 @@
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
@@ -2709,7 +2710,7 @@
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [dolthub/doltgresql](https://github.com/dolthub/doltgresql) - DoltgreSQL - Version Controlled PostgreSQL
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
@@ -3403,7 +3404,7 @@
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [sqls-server/sqls](https://github.com/sqls-server/sqls) - SQL language server written in Go.
