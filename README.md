@@ -639,6 +639,7 @@
 
 ## Others 
 
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [abreujp/masters-of-elixir](https://github.com/abreujp/masters-of-elixir) - A comprehensive collection of resources for mastering Elixir.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
