@@ -169,6 +169,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
@@ -233,6 +234,7 @@
 - [wordpress](#wordpress)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -568,7 +570,7 @@
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -772,7 +774,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
@@ -1001,6 +1003,8 @@
 
 ## dotfiles 
 
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
+- [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [MatthewCroughan/nixcfg](https://github.com/MatthewCroughan/nixcfg) - My nix configuration(s), using flakes. It's my laptop, it's my servers, it's my everything, in code.
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
@@ -1157,7 +1161,7 @@
 
 ## gh-extension 
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 
 ## git 
 
@@ -1187,7 +1191,7 @@
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 
 ## go 
@@ -1223,12 +1227,12 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [mmarkdown/mmark](https://github.com/mmarkdown/mmark) - Mmark: a powerful markdown processor in Go geared towards the IETF
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -1296,7 +1300,7 @@
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -1721,6 +1725,8 @@
 
 ## linux 
 
+- [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A very segsy rice
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
@@ -2130,6 +2136,8 @@
 
 ## others 
 
+- [dawsers/scroll](https://github.com/dawsers/scroll) - i3-compatible Wayland compositor (sway) with a PaperWM layout like niri or hyprscroller
+- [ChrisLAS/hyprvibe](https://github.com/ChrisLAS/hyprvibe) - A riced up Hyprland desktop running ontop of NixOS.
 - [akinomyoga/blesh-contrib](https://github.com/akinomyoga/blesh-contrib) - Source of settings for Bash Line Editor https://github.com/akinomyoga/ble.sh (for ble-0.4+)
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
 - [sysid/bkmr](https://github.com/sysid/bkmr) - A Unified CLI Tool for Bookmark, Snippet, and Knowledge Management
@@ -2265,7 +2273,6 @@
 - [clibs/entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FI
 - [codemation/easyauth](https://github.com/codemation/easyauth) - Create a centralized Authentication and Authorization token server. Easily secure FastAPI endpoints based on Users, Groups, Roles or Permissions with very little database usage.
 - [tembo-io/trunk](https://github.com/tembo-io/trunk) - Package manager and registry for Postgres extensions
-- [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [rafal-prasal/nprobe_py](https://github.com/rafal-prasal/nprobe_py) - 
@@ -2284,7 +2291,6 @@
 - [teamniteo/pyramid-realworld-example-app](https://github.com/teamniteo/pyramid-realworld-example-app) - Pyramid and OpenAPI3 based RealWorld implementation.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
-- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [alex-courtis/way-displays](https://github.com/alex-courtis/way-displays) - way-displays: Auto Manage Your Wayland Displays
@@ -2778,6 +2784,14 @@
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 
+## programming-language 
+
+- [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
+- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
+- [red/red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cros
+
 ## project-management 
 
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Self-Hosted - Project Management, Planning and Time Tracker
@@ -3215,6 +3229,7 @@
 
 ## rust 
 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
@@ -3425,7 +3440,7 @@
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [sqls-server/sqls](https://github.com/sqls-server/sqls) - SQL language server written in Go.
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -3444,7 +3459,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
@@ -3506,7 +3521,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -3776,6 +3791,20 @@
 ## zig 
 
 - [spiraldb/ziggy-pydust](https://github.com/spiraldb/ziggy-pydust) - A toolkit for building Python extensions in Zig.
+
+## zsh 
+
+- [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
+- [run-ai/genv](https://github.com/run-ai/genv) - GPU environment and cluster management with LLM support
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 
 
 ## License
