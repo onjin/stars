@@ -1741,6 +1741,7 @@
 
 ## linux 
 
+- [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A very segsy rice
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
@@ -1806,6 +1807,7 @@
 
 ## login 
 
+- [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [fief-dev/fief](https://github.com/fief-dev/fief) - Users and authentication management SaaS
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 
