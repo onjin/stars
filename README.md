@@ -1280,6 +1280,7 @@
 
 ## Rust 
 
+- [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [sysid/bkmr](https://github.com/sysid/bkmr) - A Unified CLI Tool for Bookmark, Snippet, and Knowledge Management
