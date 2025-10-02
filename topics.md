@@ -2154,6 +2154,7 @@
 
 ## others 
 
+- [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [dawsers/scroll](https://github.com/dawsers/scroll) - i3-compatible Wayland compositor (sway) with a PaperWM layout like niri or hyprscroller
 - [ChrisLAS/hyprvibe](https://github.com/ChrisLAS/hyprvibe) - A riced up Hyprland desktop running ontop of NixOS.
 - [akinomyoga/blesh-contrib](https://github.com/akinomyoga/blesh-contrib) - Source of settings for Bash Line Editor https://github.com/akinomyoga/ble.sh (for ble-0.4+)
