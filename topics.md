@@ -245,7 +245,7 @@
 ## ai 
 
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
@@ -319,7 +319,7 @@
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [dymmond/esmerald](https://github.com/dymmond/esmerald) - Esmerald framework - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application
+- [dymmond/ravyn](https://github.com/dymmond/ravyn) - Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [lucassus/python-ddd-sandbox](https://github.com/lucassus/python-ddd-sandbox) - 
@@ -940,7 +940,7 @@
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
@@ -1020,6 +1020,7 @@
 
 ## dotfiles 
 
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [MatthewCroughan/nixcfg](https://github.com/MatthewCroughan/nixcfg) - My nix configuration(s), using flakes. It's my laptop, it's my servers, it's my everything, in code.
@@ -1123,7 +1124,7 @@
 - [proteanhq/protean](https://github.com/proteanhq/protean) - Pragmatic Framework for Ambitious Applications
 - [hyperdiv/hyperdiv](https://github.com/hyperdiv/hyperdiv) - Build reactive web UIs in Python
 - [minos-framework/minos-python](https://github.com/minos-framework/minos-python) - 🐍 Minos is a framework which helps you create reactive microservices in Python
-- [dymmond/esmerald](https://github.com/dymmond/esmerald) - Esmerald framework - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application
+- [dymmond/ravyn](https://github.com/dymmond/ravyn) - Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
@@ -1397,6 +1398,7 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [piccolo-orm/piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [kyu08/fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes commands using fuzzy finder with preview window for make, pnpm, yarn, just and task.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -1460,7 +1462,6 @@
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [ethyca/fides](https://github.com/ethyca/fides) - The Privacy Engineering & Compliance Framework
@@ -1645,7 +1646,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [TeskaLabs/cysimdjson](https://github.com/TeskaLabs/cysimdjson) - Very fast Python JSON parsing library
-- [dymmond/esmerald](https://github.com/dymmond/esmerald) - Esmerald framework - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application
+- [dymmond/ravyn](https://github.com/dymmond/ravyn) - Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [litestar-org/fast-query-parsers](https://github.com/litestar-org/fast-query-parsers) - Ultra-fast query string and url-encoded form-data parsers
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -1745,10 +1746,11 @@
 
 ## linux 
 
+- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A very segsy rice
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
@@ -1872,7 +1874,7 @@
 
 ## macos 
 
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [gitpushjoe/zuzu.nvim](https://github.com/gitpushjoe/zuzu.nvim) - Neovim build system plugin
@@ -2159,6 +2161,8 @@
 
 ## others 
 
+- [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [dawsers/scroll](https://github.com/dawsers/scroll) - i3-compatible Wayland compositor (sway) with a PaperWM layout like niri or hyprscroller
@@ -2230,7 +2234,6 @@
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
 - [sqlc-dev/sqlc-gen-python](https://github.com/sqlc-dev/sqlc-gen-python) - 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
@@ -2833,7 +2836,7 @@
 - [razorblade23/PyCrucible](https://github.com/razorblade23/PyCrucible) - A robust, cross-platform builder and launcher for Python apps using UV. Built with Rust.
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
 - [AllexVeldman/pyoci](https://github.com/AllexVeldman/pyoci) - Publish and install private python packages using OCI/docker registries.
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
@@ -2901,7 +2904,7 @@
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
 - [minos-framework/minos-python](https://github.com/minos-framework/minos-python) - 🐍 Minos is a framework which helps you create reactive microservices in Python
 - [TeskaLabs/cysimdjson](https://github.com/TeskaLabs/cysimdjson) - Very fast Python JSON parsing library
-- [dymmond/esmerald](https://github.com/dymmond/esmerald) - Esmerald framework - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application
+- [dymmond/ravyn](https://github.com/dymmond/ravyn) - Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -3101,7 +3104,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python) - Python SDK for CloudEvents
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
-- [dymmond/esmerald](https://github.com/dymmond/esmerald) - Esmerald framework - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application
+- [dymmond/ravyn](https://github.com/dymmond/ravyn) - Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
@@ -3255,6 +3258,7 @@
 
 ## rust 
 
+- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [razorblade23/PyCrucible](https://github.com/razorblade23/PyCrucible) - A robust, cross-platform builder and launcher for Python apps using UV. Built with Rust.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
@@ -3352,14 +3356,14 @@
 ## security 
 
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client written in Python
-- [dymmond/esmerald](https://github.com/dymmond/esmerald) - Esmerald framework - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application
+- [dymmond/ravyn](https://github.com/dymmond/ravyn) - Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -3388,7 +3392,7 @@
 ## self-hosted 
 
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Self-Hosted - Project Management, Planning and Time Tracker
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -3752,7 +3756,7 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [pycr/pythongrid](https://github.com/pycr/pythongrid) - Easy datagrid for Python Flask web framework
 - [hyperdiv/hyperdiv](https://github.com/hyperdiv/hyperdiv) - Build reactive web UIs in Python
-- [dymmond/esmerald](https://github.com/dymmond/esmerald) - Esmerald framework - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application
+- [dymmond/ravyn](https://github.com/dymmond/ravyn) - Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
