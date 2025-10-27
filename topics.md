@@ -343,7 +343,7 @@
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [zatosource/zato](https://github.com/zatosource/zato) - ESB, SOA, REST, APIs and Cloud Integrations in Python
@@ -770,7 +770,7 @@
 
 ## data-engineering 
 
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Real-time data ingestion, stream processing, low-latency serving, and Iceberg management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform for real-time stream processing, low-latency serving, and Iceberg table management.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
 - [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
@@ -797,7 +797,7 @@
 
 ## database 
 
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Real-time data ingestion, stream processing, low-latency serving, and Iceberg management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform for real-time stream processing, low-latency serving, and Iceberg table management.
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [piccolo-orm/piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
@@ -861,7 +861,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [ethyca/fides](https://github.com/ethyca/fides) - The Privacy Engineering & Compliance Framework
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
@@ -1378,7 +1378,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 
 ## gulp 
@@ -1553,7 +1553,7 @@
 - [dom96/httpbeast](https://github.com/dom96/httpbeast) - A highly performant, multi-threaded HTTP 1.1 server written in Nim.
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
@@ -2192,6 +2192,7 @@
 
 ## others 
 
+- [dangvd/crystal-dock](https://github.com/dangvd/crystal-dock) - A cool dock (desktop panel) for Linux desktop
 - [benomahony/uv.nvim](https://github.com/benomahony/uv.nvim) - uv functionality available in neovim
 - [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
@@ -2780,7 +2781,7 @@
 
 ## postgresql 
 
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Real-time data ingestion, stream processing, low-latency serving, and Iceberg management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform for real-time stream processing, low-latency serving, and Iceberg table management.
 - [litestar-org/pytest-databases](https://github.com/litestar-org/pytest-databases) - Reusable database fixtures for any and all databases.
 - [piccolo-orm/piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -2861,7 +2862,7 @@
 
 ## pwa 
 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
 ## python 
 
@@ -3263,7 +3264,7 @@
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [kubemq-io/kubemq-community](https://github.com/kubemq-io/kubemq-community) - KubeMQ is a Kubernetes native message queue broker
 - [hjacobs/connexion-example-redis-kubernetes](https://github.com/hjacobs/connexion-example-redis-kubernetes) - Connexion Example REST Service with Redis Store
@@ -3299,7 +3300,7 @@
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Real-time data ingestion, stream processing, low-latency serving, and Iceberg management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform for real-time stream processing, low-latency serving, and Iceberg table management.
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
@@ -3626,7 +3627,7 @@
 - [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
 - [pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the pytest runner
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [RussBaz/enforce](https://github.com/RussBaz/enforce) - Python 3.5+ runtime type checking for integration testing and data validation
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
@@ -3762,14 +3763,14 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
 ## vuejs 
 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [piccolo-orm/piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database.
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 
 ## wagtail 
