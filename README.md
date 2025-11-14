@@ -441,6 +441,7 @@
 
 ## JavaScript 
 
+- [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [labnol/apps-script-starter](https://github.com/labnol/apps-script-starter) - Setup a local development environment inside Visual Studio Code and build Google Workspace add-ons with Google Apps Script
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
@@ -827,7 +828,7 @@
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [kodemore/kink](https://github.com/kodemore/kink) - Dependency injection container made for Python
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
-- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
+- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [j4mie/hotmetal](https://github.com/j4mie/hotmetal) - A tiny HTML generator 🔥🤘
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -1261,7 +1262,7 @@
 
 ## QML 
 
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, and MangoWC
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 
@@ -1318,7 +1319,7 @@
 - [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - self-hosted plaform for secure execution of untrusted user or AI-generated code
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [AllexVeldman/pyoci](https://github.com/AllexVeldman/pyoci) - Publish and install private python packages using OCI/docker registries.
 - [jo/hyperwood](https://github.com/jo/hyperwood) - Hyperwood is an open-source system for crafting furniture from simple wooden slats.
@@ -1371,7 +1372,6 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [tembo-io/trunk](https://github.com/tembo-io/trunk) - Package manager and registry for Postgres extensions
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
@@ -1520,6 +1520,7 @@
 
 ## TypeScript 
 
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A very segsy rice
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
