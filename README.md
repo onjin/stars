@@ -1626,6 +1626,7 @@
 
 ## Vim Script 
 
+- [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [Kurama622/markdown-org](https://github.com/Kurama622/markdown-org) - Run code in markdown
 - [beeender/Comrade](https://github.com/beeender/Comrade) - Brings JetBrains/IntelliJ IDEs magic to Neovim with minimal setup.
 - [terrastruct/d2-vim](https://github.com/terrastruct/d2-vim) - The Vim plugin for D2 files
