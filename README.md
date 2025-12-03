@@ -449,6 +449,7 @@
 
 ## JavaScript 
 
+- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [labnol/apps-script-starter](https://github.com/labnol/apps-script-starter) - Setup a local development environment inside Visual Studio Code and build Google Workspace add-ons with Google Apps Script
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
@@ -770,6 +771,7 @@
 
 ## Python 
 
+- [BasicWolf/hexagonal-architecture-django](https://github.com/BasicWolf/hexagonal-architecture-django) - Experiments with Django and Hexagonal Architecture
 - [mw-root/uv-lock-report](https://github.com/mw-root/uv-lock-report) - A GitHub Action to report changes to uv.lock.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [sql-hkr/tiny8](https://github.com/sql-hkr/tiny8) - A tiny CPU simulator written in Python
