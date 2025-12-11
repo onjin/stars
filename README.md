@@ -149,7 +149,6 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [TeskaLabs/cysimdjson](https://github.com/TeskaLabs/cysimdjson) - Very fast Python JSON parsing library
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [lcompilers/lpython](https://github.com/lcompilers/lpython) - Python compiler
 - [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a wayland wallpaper utility with IPC controls.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -401,6 +400,7 @@
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [Eonasdan/tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - A powerful Date/time picker widget.
 - [themesberg/neumorphism-ui-bootstrap](https://github.com/themesberg/neumorphism-ui-bootstrap) - Neumorphism inspired UI Kit: web components, sections and pages in neumorphic style built with Bootstrap CSS Framework
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [Enveloppe/mkdocs-publisher-template](https://github.com/Enveloppe/mkdocs-publisher-template) - The template for Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs.
@@ -636,6 +636,7 @@
 
 ## Nix 
 
+- [Dauliac/nix-oci](https://github.com/Dauliac/nix-oci) - Flake-parts module to manage OCI repositories
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [spacekookie/nixlings](https://github.com/spacekookie/nixlings) - ❄️ Small exercises to get you used to reading and writing Nix code!
