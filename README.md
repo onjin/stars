@@ -774,6 +774,7 @@
 
 ## Python 
 
+- [litestar-org/sqlspec](https://github.com/litestar-org/sqlspec) - A Query Mapper for Python
 - [BasicWolf/hexagonal-architecture-django](https://github.com/BasicWolf/hexagonal-architecture-django) - Experiments with Django and Hexagonal Architecture
 - [mw-root/uv-lock-report](https://github.com/mw-root/uv-lock-report) - A GitHub Action to report changes to uv.lock.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
