@@ -144,6 +144,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [microservices](#microservices)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -638,6 +639,7 @@
 
 ## cloud 
 
+- [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
@@ -946,6 +948,7 @@
 
 ## devops 
 
+- [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -1368,6 +1371,7 @@
 
 ## golang 
 
+- [matzehuels/stacktower](https://github.com/matzehuels/stacktower) - Visualize package dependencies as XKCD-style tower diagrams. Supports Python, Rust, JavaScript, Ruby, PHP, Java, and Go.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -2031,6 +2035,7 @@
 
 ## markdown 
 
+- [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim) - The full Markdown editing experience in neovim
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
@@ -2068,6 +2073,23 @@
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [angular/material](https://github.com/angular/material) - Material design for AngularJS
+
+## microservices 
+
+- [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
+- [wso2/reference-architecture](https://github.com/wso2/reference-architecture) - The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.
+- [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
+- [minos-framework/minos-python](https://github.com/minos-framework/minos-python) - 🐍 Minos is a framework which helps you create reactive microservices in Python
+- [evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
+- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
+- [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
+- [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with
+- [spec-first/connexion](https://github.com/spec-first/connexion) - Connexion is a modern Python web framework that makes spec-first and api-first development easy.
+- [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
+- [nameko/nameko](https://github.com/nameko/nameko) - Python framework for building microservices
 
 ## minecraft 
 
@@ -2306,6 +2328,8 @@
 
 ## others 
 
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
+- [mystyy01/mt-code](https://github.com/mystyy01/mt-code) - 
 - [nominetresearch/microbit-networking-book](https://github.com/nominetresearch/microbit-networking-book) - 
 - [Netflix/hollow](https://github.com/Netflix/hollow) - Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access.
 - [Dauliac/nix-oci](https://github.com/Dauliac/nix-oci) - Flake-parts module to manage OCI repositories
@@ -2343,7 +2367,7 @@
 - [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
-- [stabldev/torrra](https://github.com/stabldev/torrra) - A Python tool that lets you find and download torrents without leaving your CLI.
+- [stabldev/torrra](https://github.com/stabldev/torrra) - A Python tool that lets you search and download torrents without leaving your CLI.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [hynek/hello-svc-part-2](https://github.com/hynek/hello-svc-part-2) - The example code for my uv in Product Part 2 video
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
@@ -2390,7 +2414,6 @@
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
 - [pandoc/actions](https://github.com/pandoc/actions) - 
-- [wso2/reference-architecture](https://github.com/wso2/reference-architecture) - The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.
 - [antirez/load81](https://github.com/antirez/load81) - SDL based Lua programming environment for kids similar to Codea
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
@@ -2477,7 +2500,6 @@
 - [JamesTGrant/kubectl-debug](https://github.com/JamesTGrant/kubectl-debug) - Debug a target container in a Kubernetes cluster by automatically creating a new, non-invasive, 'debug' container in the same pid, network, user, and ipc namespace as the target container without disr
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [Eonasdan/tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - A powerful Date/time picker widget.
-- [evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a
 - [teamniteo/pyramid-realworld-example-app](https://github.com/teamniteo/pyramid-realworld-example-app) - Pyramid and OpenAPI3 based RealWorld implementation.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
@@ -2531,7 +2553,6 @@
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
 - [artecs-group/PERCIVAL](https://github.com/artecs-group/PERCIVAL) - Open-Source Posit RISC-V Core with Quire Capability
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [pickitup247/pyckitup](https://github.com/pickitup247/pyckitup) - python game engine that runs in browser
 - [danielfm/pybreaker](https://github.com/danielfm/pybreaker) - Python implementation of the Circuit Breaker pattern.
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
@@ -2560,7 +2581,6 @@
 - [onjin/ejpiaj](https://github.com/onjin/ejpiaj) - api testing suite
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-- [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the OpenGitOps project which are versioned and released together (including the GitOps Principles and Glossary)
 - [xbrowsersync/api-docker](https://github.com/xbrowsersync/api-docker) - xBrowserSync API for Docker
@@ -3000,6 +3020,7 @@
 
 ## python 
 
+- [mgaitan/python-package-copier-template](https://github.com/mgaitan/python-package-copier-template) - Copier template for Python projects managed by uv.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
 - [razorblade23/PyCrucible](https://github.com/razorblade23/PyCrucible) - A robust, cross-platform builder and launcher for Python apps using UV. Built with Rust.
