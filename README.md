@@ -1437,7 +1437,7 @@
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
-- [aviramha/ormsgpack](https://github.com/aviramha/ormsgpack) - Msgpack serialization/deserialization library for Python, written in Rust using PyO3. Reboot of orjson. msgpack.org[Python]
+- [ormsgpack/ormsgpack](https://github.com/ormsgpack/ormsgpack) - MessagePack serialization library for Python derived from orjson, written in Rust using PyO3
 - [pickitup247/pyckitup](https://github.com/pickitup247/pyckitup) - python game engine that runs in browser
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
