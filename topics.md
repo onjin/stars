@@ -2266,7 +2266,7 @@
 
 ## numpy 
 
-- [aviramha/ormsgpack](https://github.com/aviramha/ormsgpack) - Msgpack serialization/deserialization library for Python, written in Rust using PyO3. Reboot of orjson. msgpack.org[Python]
+- [ormsgpack/ormsgpack](https://github.com/ormsgpack/ormsgpack) - MessagePack serialization library for Python derived from orjson, written in Rust using PyO3
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 
 ## obsidian 
@@ -3157,7 +3157,7 @@
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
 - [Pylons/pyramid_openapi3](https://github.com/Pylons/pyramid_openapi3) - Pyramid addon for OpenAPI3 validation of requests and responses.
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
-- [aviramha/ormsgpack](https://github.com/aviramha/ormsgpack) - Msgpack serialization/deserialization library for Python, written in Rust using PyO3. Reboot of orjson. msgpack.org[Python]
+- [ormsgpack/ormsgpack](https://github.com/ormsgpack/ormsgpack) - MessagePack serialization library for Python derived from orjson, written in Rust using PyO3
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python
 - [pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the pytest runner
 - [DavHau/mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments
@@ -3521,7 +3521,7 @@
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
-- [aviramha/ormsgpack](https://github.com/aviramha/ormsgpack) - Msgpack serialization/deserialization library for Python, written in Rust using PyO3. Reboot of orjson. msgpack.org[Python]
+- [ormsgpack/ormsgpack](https://github.com/ormsgpack/ormsgpack) - MessagePack serialization library for Python derived from orjson, written in Rust using PyO3
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
