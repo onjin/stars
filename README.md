@@ -1255,7 +1255,6 @@
 - [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [jpadilla/django-rest-framework-jwt](https://github.com/jpadilla/django-rest-framework-jwt) - JSON Web Token Authentication support for Django REST Framework
 - [oremj/fabdeploytools](https://github.com/oremj/fabdeploytools) - Fabric deployment helpers
-- [percolate/redset](https://github.com/percolate/redset) - A Redis-backed sorted set useful for coordinating distributed work.
 - [aksiksi/dubizzle](https://github.com/aksiksi/dubizzle) - A simple scraping-based API in Python for Dubizzle.
 - [nemonik/Intellect](https://github.com/nemonik/Intellect) - DSL and Rules Engine For Python
 - [Nekroze/cookiecutter-pypackage](https://github.com/Nekroze/cookiecutter-pypackage) - Cookiecutter template for a Python package. See https://github.com/audreyr/cookiecutter.
