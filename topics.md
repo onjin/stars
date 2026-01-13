@@ -235,6 +235,7 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visualization](#visualization)
@@ -519,6 +520,7 @@
 
 ## c 
 
+- [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
@@ -2019,6 +2021,7 @@
 
 ## macos 
 
+- [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
@@ -2345,6 +2348,8 @@
 
 ## others 
 
+- [TechxArtisanStudio/Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware) - Openterface Mini-KVM:  Hardware Design, Schematics and Components
+- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
@@ -2633,7 +2638,6 @@
 - [proofit404/stories](https://github.com/proofit404/stories) - Service objects designed with OOP in mind.
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
-- [kaltura/nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [utkusen/shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
@@ -3942,8 +3946,17 @@
 - [StefanScherer/windows-docker-machine](https://github.com/StefanScherer/windows-docker-machine) - Work with Windows containers and LCOW on Mac/Linux/Windows
 - [ianmiell/shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers
 
+## video 
+
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+- [originalankur/awesome-django-admin](https://github.com/originalankur/awesome-django-admin) - Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
+- [kaltura/nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager
+- [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
+
 ## vim 
 
+- [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
