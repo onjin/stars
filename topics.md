@@ -2440,7 +2440,7 @@
 - [keybase/saltpack](https://github.com/keybase/saltpack) - a modern crypto messaging format
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [litestar-org/dtos](https://github.com/litestar-org/dtos) - Domain modelling at the edge.
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
