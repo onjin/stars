@@ -370,7 +370,7 @@
 - [gianarb/orbiter](https://github.com/gianarb/orbiter) - Orbiter is an opensource docker swarm autoscaler
 - [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
+- [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [Dataman-Cloud/crane](https://github.com/Dataman-Cloud/crane) - Yet another control plane based on docker built-in swarmkit
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -396,7 +396,7 @@
 - [blake-education/dogestry](https://github.com/blake-education/dogestry) - simple docker image storage on s3
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
-- [Yelp/dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
+- [YelpArchive/dockersh](https://github.com/YelpArchive/dockersh) - A shell which places users into individual docker containers
 - [tsuru/docker-cluster](https://github.com/tsuru/docker-cluster) - Go library for clustering support on Docker.
 - [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
 - [progrium/pluginhook](https://github.com/progrium/pluginhook) - Simple dispatcher and protocol for shell-based plugins, an improvement to hook scripts
@@ -1560,6 +1560,7 @@
 
 ## TypeScript 
 
+- [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
