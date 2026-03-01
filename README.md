@@ -318,7 +318,6 @@
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [openflagr/flagr](https://github.com/openflagr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -568,7 +567,7 @@
 
 ## Lua 
 
-- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim) - The full Markdown editing experience in neovim
 - [NickJAllen/java-helpers.nvim](https://github.com/NickJAllen/java-helpers.nvim) - Useful helpers for navigating Java stack traces and creating new Java classes, interfaces, enums with correct package declaration
@@ -637,6 +636,7 @@
 
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [joshuacox/ansibleplaybook-rancher](https://github.com/joshuacox/ansibleplaybook-rancher) - Ansible playbook to keep a Rancher container running on a docker host
 - [joho/7XX-rfc](https://github.com/joho/7XX-rfc) - An RFC for a new series of HTTP status codes covering developer fouls.
 
@@ -742,7 +742,6 @@
 - [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [mrzool/unix-as-ide](https://github.com/mrzool/unix-as-ide) - The ebook version of Tom Ryder's series on the Unix programming environment
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [python/asyncio](https://github.com/python/asyncio) - asyncio historical repository
 - [cultuurnet/udb3-swagger](https://github.com/cultuurnet/udb3-swagger) - Swagger docs for the udb3 jsonld api.
 - [netikras/Creative-XFI-5.1](https://github.com/netikras/Creative-XFI-5.1) - This repo contains a few scripts and libs to make Creative X-FI 5.1 USB sound card work properly on ubuntu (including remote control RM-820)
@@ -1647,7 +1646,7 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
