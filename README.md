@@ -739,7 +739,7 @@
 - [willow/hermes-api](https://github.com/willow/hermes-api) - 
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
-- [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
+- [basecamp/handbook](https://github.com/basecamp/handbook) - 37signals Employee Handbook
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [mrzool/unix-as-ide](https://github.com/mrzool/unix-as-ide) - The ebook version of Tom Ryder's series on the Unix programming environment
 - [python/asyncio](https://github.com/python/asyncio) - asyncio historical repository
