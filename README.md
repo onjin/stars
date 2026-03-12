@@ -92,7 +92,7 @@
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [gvanrossum/abc-unix](https://github.com/gvanrossum/abc-unix) - The original ABC language (Python's predecessor), from 1991
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)
+- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [dawsers/scroll](https://github.com/dawsers/scroll) - i3-compatible Wayland compositor (sway) with a PaperWM layout like niri or hyprscroller
@@ -429,7 +429,6 @@
 - [mailgun/transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - Responsive transactional HTML email templates
 - [moyaproject/moya](https://github.com/moyaproject/moya) - Web development platform
 - [pw4ever/tbnl](https://github.com/pw4ever/tbnl) - TBNL: Rule your Android, as the Root, fully programmable, in Clojure
-- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [marianoguerra/rst2html5](https://github.com/marianoguerra/rst2html5) - transform restructuredtext documents to html5 + twitter's bootstrap css, deck.js or reveal.js
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 
@@ -523,6 +522,7 @@
 - [a8m/angular-filter](https://github.com/a8m/angular-filter) - Bunch of useful filters for AngularJS (with no external dependencies!)
 - [angular/material](https://github.com/angular/material) - Material design for AngularJS
 - [angular-ui/ui-select](https://github.com/angular-ui/ui-select) - AngularJS-native version of Select2 and Selectize
+- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [ppetrid/yawd-admin](https://github.com/ppetrid/yawd-admin) - An administration website for Django
 - [guardian/scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -1369,7 +1369,7 @@
 - [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [AllexVeldman/pyoci](https://github.com/AllexVeldman/pyoci) - Publish and install private python packages using OCI/docker registries.
 - [jo/hyperwood](https://github.com/jo/hyperwood) - Hyperwood is an open-source system for crafting furniture from simple wooden slats.
