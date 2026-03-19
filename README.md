@@ -971,7 +971,7 @@
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [snok/asgi-correlation-id](https://github.com/snok/asgi-correlation-id) - Request ID propagation for ASGI apps
 - [steinnes/timing-asgi](https://github.com/steinnes/timing-asgi) - ASGI middleware to record and emit timing metrics (to something like statsd)
-- [python-openapi/openapi-core](https://github.com/python-openapi/openapi-core) - Openapi-core is a Python library that adds client-side and server-side support for the OpenAPI v3.0 and OpenAPI v3.1 specification.
+- [python-openapi/openapi-core](https://github.com/python-openapi/openapi-core) - Openapi-core is a Python library that adds client-side and server-side support for the OpenAPI v3.0 and OpenAPI v3.1 and OpenAPI v3.2 specification.
 - [abersheeran/asgi-ratelimit](https://github.com/abersheeran/asgi-ratelimit) - A ASGI Middleware to rate limit
 - [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic) - Entity relationship diagrams for Python data model classes like Pydantic
 - [adriangb/di](https://github.com/adriangb/di) - Pythonic dependency injection
