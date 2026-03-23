@@ -125,6 +125,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jenkins](#jenkins)
+- [jetpack-compose](#jetpack-compose)
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
@@ -1815,6 +1816,10 @@
 ## jenkins 
 
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+
+## jetpack-compose 
+
+- [ShiftHackZ/Catppuccin-Android-Library](https://github.com/ShiftHackZ/Catppuccin-Android-Library) - An easy way to implement Catppuccin soothing pastel theme in your Android Applications.
 
 ## jquery 
 
