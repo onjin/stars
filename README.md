@@ -1582,6 +1582,7 @@
 
 ## TypeScript 
 
+- [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
