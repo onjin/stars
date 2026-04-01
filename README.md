@@ -127,7 +127,6 @@
 - [insidewhy/smell-baron](https://github.com/insidewhy/smell-baron) - A tiny init system written in C for docker containers.
 - [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.
 - [lpereira/lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
-- [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [uzbl/uzbl](https://github.com/uzbl/uzbl) - A web browser that adheres to the unix philosophy.
 - [onjin/astral](https://github.com/onjin/astral) - MUD Astral Dominion
 
@@ -567,7 +566,7 @@
 
 ## Just 
 
-- [hynek/hello-svc-part-2](https://github.com/hynek/hello-svc-part-2) - The example code for my uv in Product Part 2 video
+- [hynek/hello-svc-part-2](https://github.com/hynek/hello-svc-part-2) - The example code for my uv in Production Part 2 video
 - [catppuccin/plymouth](https://github.com/catppuccin/plymouth) - 🚗 Soothing pastel theme for Plymouth
 
 ## Kotlin 
@@ -646,7 +645,6 @@
 
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [joshuacox/ansibleplaybook-rancher](https://github.com/joshuacox/ansibleplaybook-rancher) - Ansible playbook to keep a Rancher container running on a docker host
 - [joho/7XX-rfc](https://github.com/joho/7XX-rfc) - An RFC for a new series of HTTP status codes covering developer fouls.
 
@@ -755,6 +753,7 @@
 - [basecamp/handbook](https://github.com/basecamp/handbook) - 37signals Employee Handbook
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [mrzool/unix-as-ide](https://github.com/mrzool/unix-as-ide) - The ebook version of Tom Ryder's series on the Unix programming environment
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [python/asyncio](https://github.com/python/asyncio) - asyncio historical repository
 - [cultuurnet/udb3-swagger](https://github.com/cultuurnet/udb3-swagger) - Swagger docs for the udb3 jsonld api.
 - [netikras/Creative-XFI-5.1](https://github.com/netikras/Creative-XFI-5.1) - This repo contains a few scripts and libs to make Creative X-FI 5.1 USB sound card work properly on ubuntu (including remote control RM-820)
@@ -969,7 +968,7 @@
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [zhebrak/raftos](https://github.com/zhebrak/raftos) - Asynchronous replication framework for distributed Python projects
 - [laurentS/slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI
-- [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
+- [smithyhq/sqladmin](https://github.com/smithyhq/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
@@ -1384,7 +1383,7 @@
 - [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [AllexVeldman/pyoci](https://github.com/AllexVeldman/pyoci) - Publish and install private python packages using OCI/docker registries.
 - [jo/hyperwood](https://github.com/jo/hyperwood) - Hyperwood is an open-source system for crafting furniture from simple wooden slats.
@@ -1589,6 +1588,7 @@
 
 ## TypeScript 
 
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - bring your own multiplexer — terminal session manager with agent status, git branches, and instant switching
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
