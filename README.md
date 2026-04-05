@@ -229,6 +229,7 @@
 
 ## Elixir 
 
+- [abreujp/masters-of-elixir](https://github.com/abreujp/masters-of-elixir) - A comprehensive collection of resources for mastering Elixir.
 - [sugar-framework/sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir
 
 ## Erlang 
@@ -714,7 +715,6 @@
 ## Others 
 
 - [TechxArtisanStudio/Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware) - Openterface Mini-KVM:  Hardware Design, Schematics and Components
-- [abreujp/masters-of-elixir](https://github.com/abreujp/masters-of-elixir) - A comprehensive collection of resources for mastering Elixir.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
