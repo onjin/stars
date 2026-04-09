@@ -2435,12 +2435,13 @@
 
 ## others 
 
+- [gschurck/nixquick](https://github.com/gschurck/nixquick) - Quickly search, install and uninstall nixpkgs across your different nix configurations
 - [glommer/pgmicro](https://github.com/glommer/pgmicro) - An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine
 - [finix-community/finix](https://github.com/finix-community/finix) - A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
-- [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - bring your own multiplexer — terminal session manager with agent status, git branches, and instant switching
+- [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - persistent tmux sidebar showing AI agent status across all sessions
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [liixini/shaders](https://github.com/liixini/shaders) - Collection of GLSL shaders for use with Niri
 - [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92)
