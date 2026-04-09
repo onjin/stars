@@ -93,7 +93,7 @@
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [gvanrossum/abc-unix](https://github.com/gvanrossum/abc-unix) - The original ABC language (Python's predecessor), from 1991
-- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)
+- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [dawsers/scroll](https://github.com/dawsers/scroll) - i3-compatible Wayland compositor (sway) with a PaperWM layout like niri or hyprscroller
@@ -662,6 +662,7 @@
 
 ## Nix 
 
+- [gschurck/nixquick](https://github.com/gschurck/nixquick) - Quickly search, install and uninstall nixpkgs across your different nix configurations
 - [finix-community/finix](https://github.com/finix-community/finix) - A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space
 - [vic/den](https://github.com/vic/den) - Aspect-oriented, context-driven Dendritic Nix configurations
 - [vic/import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree.
@@ -679,6 +680,7 @@
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
@@ -794,7 +796,7 @@
 
 ## Perl 
 
-- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 - [perlbal/Perlbal](https://github.com/perlbal/Perlbal) - Perl HTTP Load Balancer
 
 ## PlantUML 
@@ -1397,7 +1399,7 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [hydro-project/hydro](https://github.com/hydro-project/hydro) - A Rust framework for correct and performant distributed systems
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
@@ -1406,7 +1408,6 @@
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [veloren/veloren](https://github.com/veloren/veloren) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitL
-- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
@@ -1592,7 +1593,7 @@
 ## TypeScript 
 
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-- [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - bring your own multiplexer — terminal session manager with agent status, git branches, and instant switching
+- [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - persistent tmux sidebar showing AI agent status across all sessions
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
