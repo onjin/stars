@@ -255,7 +255,7 @@
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
-- [matzehuels/stacktower](https://github.com/matzehuels/stacktower) - Visualize package dependencies as XKCD-style tower diagrams. Supports Python, Rust, JavaScript, Ruby, PHP, Java, and Go.
+- [stacktower-io/stacktower](https://github.com/stacktower-io/stacktower) - Visualize package dependencies as XKCD-style tower diagrams. Supports Python, Rust, JavaScript, Ruby, PHP, Java, and Go.
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [CodeOne45/vex-tui](https://github.com/CodeOne45/vex-tui) - A beautiful, fast, and feature-rich terminal-based Excel and CSV viewer & editor built with Go.
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go
@@ -301,7 +301,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [coder/wush](https://github.com/coder/wush) - simplest & fastest way to transfer files between computers via WireGuard
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
-- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool. Built in go, it tears through API specs faster than you can think. vacuum is compatible with Spectral rule
+- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI linter and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) - An improved drop-in replacement for SQS
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
