@@ -953,7 +953,7 @@
 - [emmett-framework/emmett](https://github.com/emmett-framework/emmett) - The web framework for inventors
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
-- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS, MQTT and Redis.
 - [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
@@ -1654,7 +1654,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
