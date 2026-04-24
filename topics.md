@@ -1279,6 +1279,7 @@
 
 ## font 
 
+- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
@@ -2475,6 +2476,7 @@
 
 ## others 
 
+- [miaupaw/ie-r](https://github.com/miaupaw/ie-r) - Instant Eyedropper Reborn  - resurrection of the original color detection tool
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
 - [gepheum/skir](https://github.com/gepheum/skir) - Like Protobuf, without the pain
