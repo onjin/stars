@@ -301,7 +301,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [coder/wush](https://github.com/coder/wush) - simplest & fastest way to transfer files between computers via WireGuard
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
-- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI linter and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets.
+- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI linter and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) - An improved drop-in replacement for SQS
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -1377,7 +1377,7 @@
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
 - [TKanX/bio-forge](https://github.com/TKanX/bio-forge) - A high-performance, pure Rust toolkit for standardizing and preparing biomolecular systems (proteins & nucleic acids). It heals missing atoms, resolves protonation states, adds solvation, and unifies 
-- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
@@ -1603,7 +1603,7 @@
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [gepheum/skir](https://github.com/gepheum/skir) - Like Protobuf, without the pain
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-- [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - persistent sidebar pane within tmux as a showing AI agent status across all sessions
+- [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
