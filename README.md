@@ -794,6 +794,7 @@
 
 ## PLpgSQL 
 
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 
@@ -803,7 +804,6 @@
 
 ## Perl 
 
-- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 - [perlbal/Perlbal](https://github.com/perlbal/Perlbal) - Perl HTTP Load Balancer
 
 ## PlantUML 
