@@ -90,6 +90,7 @@
 
 ## C 
 
+- [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui) - alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite USB Drivers
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [gvanrossum/abc-unix](https://github.com/gvanrossum/abc-unix) - The original ABC language (Python's predecessor), from 1991
@@ -1013,7 +1014,7 @@
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
 - [bakwc/PySyncObj](https://github.com/bakwc/PySyncObj) - A library for replicating your python class between multiple servers, based on raft protocol
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [bhch/django-jsonform](https://github.com/bhch/django-jsonform) - A better, user-friendly JSON editing form field for Django admin. Also supports Postgres ArrayField.
 - [tobymao/saq](https://github.com/tobymao/saq) - Simple Async Queues
 - [Kludex/mangum](https://github.com/Kludex/mangum) - AWS Lambda support for ASGI applications
