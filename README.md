@@ -774,7 +774,7 @@
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - AngularJS styleguide for teams
 - [ericdouglas/ES6-Learning](https://github.com/ericdouglas/ES6-Learning) - :clipboard: List of resources to learn ECMAScript 6!
-- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 - [cloudgear-net/demo-kubernetes](https://github.com/cloudgear-net/demo-kubernetes) - Quick Kubernetes cluster setup
 - [chrisgillis/vim-bootstrap3-snippets](https://github.com/chrisgillis/vim-bootstrap3-snippets) - Twitter Bootstrap 3 Snippets for Vim
 - [samalba/hipache-nginx](https://github.com/samalba/hipache-nginx) - Dynamic HTTP routing with Nginx and Redis (reimplements Hipache with Nginx using the Lua module)
