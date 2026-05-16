@@ -1725,7 +1725,6 @@
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [chainside/btcpy](https://github.com/chainside/btcpy) - A Python3 SegWit-compliant library which provides tools to handle Bitcoin data structures in a simple fashion.
-- [cultuurnet/udb3-swagger](https://github.com/cultuurnet/udb3-swagger) - Swagger docs for the udb3 jsonld api.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
@@ -2506,6 +2505,7 @@
 
 ## others 
 
+- [franktisellano/datatype](https://github.com/franktisellano/datatype) - Datatype is a variable font that turns text into charts.
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance. A collection of quality-of-life features related to folding.
 - [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui) - alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite USB Drivers
