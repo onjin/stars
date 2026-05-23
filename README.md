@@ -254,6 +254,7 @@
 
 ## Go 
 
+- [oasdiff/oasdiff](https://github.com/oasdiff/oasdiff) - OpenAPI Diff and Breaking Changes
 - [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 - [buptczq/WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
