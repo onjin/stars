@@ -1382,6 +1382,7 @@
 
 ## Rust 
 
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
 - [miaupaw/ie-r](https://github.com/miaupaw/ie-r) - Instant Eyedropper Reborn  - resurrection of the original color detection tool
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
 - [glommer/pgmicro](https://github.com/glommer/pgmicro) - An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine
