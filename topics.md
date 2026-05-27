@@ -721,7 +721,7 @@
 
 ## code-review 
 
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This repository contains the open-source PR Agent Project. It is not the Qodo free tier.
 
 ## command-line 
 
@@ -2501,7 +2501,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This repository contains the open-source PR Agent Project. It is not the Qodo free tier.
 
 ## operating-system 
 
@@ -2514,6 +2514,7 @@
 
 ## others 
 
+- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!
 - [xn0tsa/nobody-puts-baby-in-a-corner](https://github.com/xn0tsa/nobody-puts-baby-in-a-corner) - Five CVEs against Meari/CloudEdge IoT camera platform — public disclosure 2026-05-11
 - [franktisellano/datatype](https://github.com/franktisellano/datatype) - Datatype is a variable font that turns text into charts.
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
@@ -2522,7 +2523,7 @@
 - [miaupaw/ie-r](https://github.com/miaupaw/ie-r) - Instant Eyedropper Reborn  - resurrection of the original color detection tool
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
-- [gepheum/skir](https://github.com/gepheum/skir) - Like Protobuf, without the pain
+- [gepheum/skir](https://github.com/gepheum/skir) - Schema language from the future
 - [glommer/pgmicro](https://github.com/glommer/pgmicro) - An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine
 - [finix-community/finix](https://github.com/finix-community/finix) - A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -2619,7 +2620,7 @@
 - [onjin/YubiKey-Guide](https://github.com/onjin/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [greggshorthand/greggshorthand.github.io](https://github.com/greggshorthand/greggshorthand.github.io) - 
-- [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - A generative world for general-purpose robotics & embodied AI learning.
+- [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - Simulation platform for general-purpose robotics & embodied AI learning.
 - [keybase/saltpack](https://github.com/keybase/saltpack) - a modern crypto messaging format
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
