@@ -1922,7 +1922,7 @@
 - [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
-- [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
+- [msgspec/msgspec](https://github.com/msgspec/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
@@ -2538,7 +2538,7 @@
 - [arismoko/buddy.nvim](https://github.com/arismoko/buddy.nvim) - AI-powered MCP server for Neovim - bridge your editor to LLM agents
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [cofin/hatch-mojo](https://github.com/cofin/hatch-mojo) - Hatch build hook plugin for Mojo
-- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
+- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
 - [denful/import-tree](https://github.com/denful/import-tree) - Import all nix files in a directory tree.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
@@ -3380,7 +3380,7 @@
 - [Kludex/mangum](https://github.com/Kludex/mangum) - AWS Lambda support for ASGI applications
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
 - [Pylons/pyramid_openapi3](https://github.com/Pylons/pyramid_openapi3) - Pyramid addon for OpenAPI3 validation of requests and responses.
-- [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
+- [msgspec/msgspec](https://github.com/msgspec/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [ormsgpack/ormsgpack](https://github.com/ormsgpack/ormsgpack) - MessagePack serialization library for Python derived from orjson, written in Rust using PyO3
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python
 - [pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the pytest runner
