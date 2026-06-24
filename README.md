@@ -495,6 +495,7 @@
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [labnol/apps-script-starter](https://github.com/labnol/apps-script-starter) - Setup a local development environment inside Visual Studio Code and build Google Workspace add-ons with Google Apps Script
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
+- [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
 - [tabulator-tables/tabulator](https://github.com/tabulator-tables/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc -WebComponent for OpenAPI Spec
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
@@ -741,7 +742,6 @@
 - [xn0tsa/nobody-puts-baby-in-a-corner](https://github.com/xn0tsa/nobody-puts-baby-in-a-corner) - Five CVEs against Meari/CloudEdge IoT camera platform — public disclosure 2026-05-11
 - [TechxArtisanStudio/Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware) - Openterface Mini-KVM:  Hardware Design, Schematics and Components
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
-- [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [wongyah/awesome-technical-writing-learning](https://github.com/wongyah/awesome-technical-writing-learning) - 😎 A curated list of awesome and free resources about technical writing.
@@ -1418,7 +1418,7 @@
 - [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [AllexVeldman/pyoci](https://github.com/AllexVeldman/pyoci) - Publish and install private python packages using OCI/docker registries.
 - [jo/hyperwood](https://github.com/jo/hyperwood) - Hyperwood is an open-source system for crafting furniture from simple wooden slats.
