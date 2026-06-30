@@ -2904,7 +2904,7 @@
 - [neurolabs/henplus](https://github.com/neurolabs/henplus) - HenPlus is a SQL shell that can handle multiple sessions in parallel. The commandline interface with the usual history functions features TAB-completion for commands, tables and columns. Database conn
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [fmoralesc/neovim-gnome-terminal-wrapper](https://github.com/fmoralesc/neovim-gnome-terminal-wrapper) - Wrapper for running neovim in a separate instance of gnome-terminal
-- [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
+- [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy🍻
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [gu-fan/instant-rst.py](https://github.com/gu-fan/instant-rst.py) - A local server for preview rst document instantly
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
