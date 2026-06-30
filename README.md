@@ -1172,7 +1172,7 @@
 - [joowani/kq](https://github.com/joowani/kq) - Kafka-based Job Queue for Python
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [fmoralesc/neovim-gnome-terminal-wrapper](https://github.com/fmoralesc/neovim-gnome-terminal-wrapper) - Wrapper for running neovim in a separate instance of gnome-terminal
-- [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
+- [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy🍻
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [moses-palmer/truepy](https://github.com/moses-palmer/truepy) - Python library for generating TrueLicense licenses
 - [Arello-Mobile/confluence-publisher](https://github.com/Arello-Mobile/confluence-publisher) - Tool for publishing Sphinx generated documents to Confluence
