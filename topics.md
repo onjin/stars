@@ -1382,14 +1382,14 @@
 
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
-- [pokepetter/ursina](https://github.com/pokepetter/ursina) - A game engine powered by python and panda3d.
+- [pokepetter/ursina](https://github.com/pokepetter/ursina) - A 3D and 2D game engine for Python
 
 ## game-engine 
 
 - [bjornbytes/lovr](https://github.com/bjornbytes/lovr) - Lua Virtual Reality Framework
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [letoram/arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
-- [pokepetter/ursina](https://github.com/pokepetter/ursina) - A game engine powered by python and panda3d.
+- [pokepetter/ursina](https://github.com/pokepetter/ursina) - A 3D and 2D game engine for Python
 
 ## gamedev 
 
@@ -1650,6 +1650,7 @@
 
 ## hacktoberfest 
 
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 - [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
@@ -3429,7 +3430,7 @@
 - [yukinarit/pyserde](https://github.com/yukinarit/pyserde) - Yet another serialization library on top of dataclasses, inspired by serde-rs.
 - [onjin/nvim](https://github.com/onjin/nvim) - Simple and personal nvim (neovim) config for programming
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
-- [pokepetter/ursina](https://github.com/pokepetter/ursina) - A game engine powered by python and panda3d.
+- [pokepetter/ursina](https://github.com/pokepetter/ursina) - A 3D and 2D game engine for Python
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [ethyca/fides](https://github.com/ethyca/fides) - The Privacy Engineering & Compliance Framework
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
