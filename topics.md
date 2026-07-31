@@ -358,6 +358,7 @@
 
 ## angular 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 - [vmware-archive/clarity](https://github.com/vmware-archive/clarity) - Clarity is a scalable, accessible, customizable, open source design system built with web components. Works with any JavaScript framework, built for enterprises, and designed to  be inclusive.
@@ -621,6 +622,7 @@
 
 ## cli 
 
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
@@ -1660,6 +1662,7 @@
 
 ## hacktoberfest 
 
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
@@ -2066,6 +2069,7 @@
 
 ## linux 
 
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [gschurck/nixquick](https://github.com/gschurck/nixquick) - Quickly search, install and uninstall nixpkgs across your different nix configurations
 - [liixini/shaders](https://github.com/liixini/shaders) - Collection of GLSL shaders for use with Niri
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -2215,6 +2219,7 @@
 
 ## macos 
 
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
@@ -2561,6 +2566,7 @@
 
 ## others 
 
+- [Cu3PO42/pam_shim](https://github.com/Cu3PO42/pam_shim) - 
 - [fatihak/PrestoDeck](https://github.com/fatihak/PrestoDeck) - Spotify cover art display and music player for the Pimoroni Presto
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [terraform-routeros/terraform-provider-routeros](https://github.com/terraform-routeros/terraform-provider-routeros) - Terraform Provider for Mikrotik RouterOS
@@ -3144,6 +3150,7 @@
 
 ## package-manager 
 
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [AllexVeldman/pyoci](https://github.com/AllexVeldman/pyoci) - Publish and install private python packages using OCI/docker registries.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
@@ -3267,6 +3274,7 @@
 
 ## project-management 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Eigenfocus - Project Management tool without the clutter.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -3718,6 +3726,7 @@
 
 ## ruby 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -3729,6 +3738,7 @@
 
 ## rust 
 
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [TKanX/bio-forge](https://github.com/TKanX/bio-forge) - A high-performance, pure Rust toolkit for standardizing and preparing biomolecular systems (proteins & nucleic acids). It heals missing atoms, resolves protonation states, adds solvation, and unifies 
@@ -4385,6 +4395,7 @@
 
 ## windows 
 
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [buptczq/WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
