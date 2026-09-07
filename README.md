@@ -592,6 +592,7 @@
 
 ## Kotlin 
 
+- [rrajath/grove](https://github.com/rrajath/grove) - A task management and note-taking app for Android that is compatible with org-mode
 - [ShiftHackZ/Catppuccin-Android-Library](https://github.com/ShiftHackZ/Catppuccin-Android-Library) - An easy way to implement Catppuccin soothing pastel theme in your Android Applications.
 
 ## Lua 
@@ -601,7 +602,7 @@
 - [joryeugene/dadbod-grip.nvim](https://github.com/joryeugene/dadbod-grip.nvim) - Dadbod Grip turns database tables into editable Vim buffers, with schema browsing, staged mutations, generated SQL, relationship navigation, and cross-database federation inside Neovim.
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 6200+ neovim plugins database with automatic installation! 🚀
 - [arismoko/buddy.nvim](https://github.com/arismoko/buddy.nvim) - AI-powered MCP server for Neovim - bridge your editor to LLM agents
-- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review workspace for Neovim with VSCode style diffs. Inspect Git changes as coding agents work, stage or discard hunks, review pull requests and history, and resolve merge conflicts.
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review for Neovim with VSCode style diffs
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim) - The full Markdown editing experience in neovim
 - [NickJAllen/java-helpers.nvim](https://github.com/NickJAllen/java-helpers.nvim) - Useful helpers for navigating Java stack traces and creating new Java classes, interfaces, enums with correct package declaration
@@ -1430,7 +1431,7 @@
 - [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [AllexVeldman/pyoci](https://github.com/AllexVeldman/pyoci) - Publish and install private python packages using OCI/docker registries.
 - [jo/hyperwood](https://github.com/jo/hyperwood) - Hyperwood is an open-source system for crafting furniture from simple wooden slats.
@@ -1624,7 +1625,7 @@
 
 ## Swift 
 
-- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 
@@ -1647,7 +1648,7 @@
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A fluid, morphing interface to your Linux desktop
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
