@@ -328,7 +328,7 @@
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 
 ## ajax 
@@ -945,7 +945,7 @@
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
@@ -1430,6 +1430,7 @@
 
 ## git 
 
+- [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management CLI and TUI for the terminal.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -1531,6 +1532,7 @@
 
 ## golang 
 
+- [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management CLI and TUI for the terminal.
 - [oasdiff/oasdiff](https://github.com/oasdiff/oasdiff) - OpenAPI Diff and Breaking Changes
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -1547,7 +1549,7 @@
 - [hexya-erp/hexya](https://github.com/hexya-erp/hexya) - Hexya business application development framework
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) - Go Practical Tips
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
-- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
+- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! build your own beacon using Xiao-BLE
 - [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
@@ -2090,6 +2092,7 @@
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
+- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! build your own beacon using Xiao-BLE
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -2142,7 +2145,7 @@
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [StavC/Here-Comes-the-AI-Worm](https://github.com/StavC/Here-Comes-the-AI-Worm) - Here Comes the AI Worm: Preventing the Propagation of Adversarial Self-Replicating Prompts Within GenAI Ecosystems
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -2370,7 +2373,7 @@
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [pycr/pythongrid](https://github.com/pycr/pythongrid) - Easy datagrid for Python Flask web framework
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -2574,6 +2577,7 @@
 
 ## others 
 
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [rrajath/grove](https://github.com/rrajath/grove) - A task management and note-taking app for Android that is compatible with org-mode
 - [rgsoda/lazyjenkins](https://github.com/rgsoda/lazyjenkins) - tui wrapper for jk binary
 - [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents.
@@ -3216,7 +3220,7 @@
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 - [pycr/pythongrid](https://github.com/pycr/pythongrid) - Easy datagrid for Python Flask web framework
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [dolthub/doltgresql](https://github.com/dolthub/doltgresql) - DoltgreSQL - Version Controlled PostgreSQL
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
@@ -3329,7 +3333,7 @@
 - [joshua-auchincloss/hatch-cython](https://github.com/joshua-auchincloss/hatch-cython) - cython hooks for hatch
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
 - [spiraldb/ziggy-pydust](https://github.com/spiraldb/ziggy-pydust) - A toolkit for building Python extensions in Zig.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
@@ -3387,7 +3391,7 @@
 - [minos-framework/minos-python](https://github.com/minos-framework/minos-python) - 🐍 Minos is a framework which helps you create reactive microservices in Python
 - [TeskaLabs/cysimdjson](https://github.com/TeskaLabs/cysimdjson) - Very fast Python JSON parsing library
 - [dymmond/ravyn](https://github.com/dymmond/ravyn) - Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -3588,7 +3592,7 @@
 - [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python) - Python SDK for CloudEvents
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
 - [dymmond/ravyn](https://github.com/dymmond/ravyn) - Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
 - [frankie567/httpx-oauth](https://github.com/frankie567/httpx-oauth) - Async OAuth client using HTTPX
@@ -4015,7 +4019,7 @@
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
@@ -4088,6 +4092,7 @@
 
 ## terminal 
 
+- [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management CLI and TUI for the terminal.
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [gschurck/nixquick](https://github.com/gschurck/nixquick) - Quickly search, install and uninstall nixpkgs across your different nix configurations
 - [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
@@ -4159,6 +4164,7 @@
 
 ## tui 
 
+- [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management CLI and TUI for the terminal.
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
 - [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
