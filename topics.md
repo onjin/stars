@@ -2577,6 +2577,8 @@
 
 ## others 
 
+- [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
+- [deepin-community/waypipe](https://github.com/deepin-community/waypipe) - 
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [rrajath/grove](https://github.com/rrajath/grove) - A task management and note-taking app for Android that is compatible with org-mode
 - [rgsoda/lazyjenkins](https://github.com/rgsoda/lazyjenkins) - tui wrapper for jk binary
@@ -2702,7 +2704,7 @@
 - [robbie-cahill/tunnelmole-service](https://github.com/robbie-cahill/tunnelmole-service) - Give local web servers a public URL
 - [shemeshg/pass-simple-qt](https://github.com/shemeshg/pass-simple-qt) - Pass Simple - similar to QtPass, Multi-platform GUI for pass, the standard unix password manager
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
-- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@cyclic-pentane]
 - [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - the predecessor to nix-wrapper-modules#neovim
 - [sqlc-dev/sqlc-gen-python](https://github.com/sqlc-dev/sqlc-gen-python) - 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
