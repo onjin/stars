@@ -2304,6 +2304,7 @@
 - [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## microservices 
@@ -2969,7 +2970,6 @@
 - [freitass/todo.txt-vim](https://github.com/freitass/todo.txt-vim) - Vim plugin for managing todo.txt files — highlighting, sorting, and quick toggles.
 - [netikras/Creative-XFI-5.1](https://github.com/netikras/Creative-XFI-5.1) - This repo contains a few scripts and libs to make Creative X-FI 5.1 USB sound card work properly on ubuntu (including remote control RM-820)
 - [mdamien/lys](https://github.com/mdamien/lys) - :hibiscus: Simple HTML templating for Python
-- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 - [eStream/Cart42](https://github.com/eStream/Cart42) - ASP.NET MVC C# based shopping cart software
 - [Fuyukai/Kyoukai](https://github.com/Fuyukai/Kyoukai) - [OLD] A fully async web framework for Python3.5+ using asyncio
 - [aFarkas/webshim](https://github.com/aFarkas/webshim) - [DEPRECATED] Webshims Lib is a modular capability-based polyfill-loading library
