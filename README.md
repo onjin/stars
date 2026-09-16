@@ -1199,7 +1199,7 @@
 - [llimllib/limbo](https://github.com/llimllib/limbo) - A simple, clean, easy to modify Slack chatbot
 - [panyanyany/beeprint](https://github.com/panyanyany/beeprint) - make your debug printing more friendly
 - [mdamien/lys](https://github.com/mdamien/lys) - :hibiscus: Simple HTML templating for Python
-- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
+- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）
 - [di/divspl](https://github.com/di/divspl) - Dustin Ingram's Very Special Programming Language
 - [mahmoud/clastic](https://github.com/mahmoud/clastic) - 🏔️ A functional web framework that streamlines explicit development practices while eliminating global state.
 - [django-getpaid/django-getpaid](https://github.com/django-getpaid/django-getpaid) - Django payments processor.
