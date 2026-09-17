@@ -298,6 +298,7 @@
 
 ## ai 
 
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [joryeugene/dadbod-grip.nvim](https://github.com/joryeugene/dadbod-grip.nvim) - Dadbod Grip turns database tables into editable Vim buffers, with schema browsing, staged mutations, generated SQL, relationship navigation, and cross-database federation inside Neovim.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
@@ -2593,7 +2594,6 @@
 - [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance. A collection of quality-of-life features related to folding.
 - [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui) - alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite USB Drivers
 - [miaupaw/ie-r](https://github.com/miaupaw/ie-r) - Instant Eyedropper Reborn  - resurrection of the original color detection tool
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
 - [gepheum/skir](https://github.com/gepheum/skir) - Protobuf reimagined for today
 - [glommer/pgmicro](https://github.com/glommer/pgmicro) - An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine
