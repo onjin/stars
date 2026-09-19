@@ -434,6 +434,7 @@
 - [YelpArchive/dockersh](https://github.com/YelpArchive/dockersh) - A shell which places users into individual docker containers
 - [tsuru/docker-cluster](https://github.com/tsuru/docker-cluster) - Go library for clustering support on Docker.
 - [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [progrium/pluginhook](https://github.com/progrium/pluginhook) - Simple dispatcher and protocol for shell-based plugins, an improvement to hook scripts
 
 ## HTML 
@@ -1617,7 +1618,6 @@
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers)
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dokku/sshcommand](https://github.com/dokku/sshcommand) - Turn SSH into a thin client specifically for your app
 - [progrium/gitreceive](https://github.com/progrium/gitreceive) - Easily accept and handle arbitrary git pushes
 - [gma/git-me-up](https://github.com/gma/git-me-up) - Automate common steps when getting setup with git-svn.
@@ -1629,7 +1629,7 @@
 
 ## Swift 
 
-- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
+- [OmniNull/OmniWM](https://github.com/OmniNull/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 
