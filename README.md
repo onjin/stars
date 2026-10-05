@@ -492,7 +492,7 @@
 ## JavaScript 
 
 - [amalfra/junit-cli-report-viewer](https://github.com/amalfra/junit-cli-report-viewer) - A tool to generate CLI reports from JUnit XML format file
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [labnol/apps-script-starter](https://github.com/labnol/apps-script-starter) - Setup a local development environment inside Visual Studio Code and build Google Workspace add-ons with Google Apps Script
@@ -612,7 +612,7 @@
 - [saxon1964/neovim-tips](https://github.com/saxon1964/neovim-tips) - Discover hundreds of Neovim tips, tricks, and shortcuts — and even add your own! You’ll also get a beautifully formatted PDF book with every tip inside.
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven
 - [benomahony/uv.nvim](https://github.com/benomahony/uv.nvim) - uv functionality available in neovim
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim) - Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.
 - [JavaHello/spring-boot.nvim](https://github.com/JavaHello/spring-boot.nvim) - Neovim + Spring Boot LS
 - [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim) - Find Nerd Glyphs Easily 🤓🔭
