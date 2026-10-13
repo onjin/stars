@@ -1573,6 +1573,7 @@
 - [stacktower-io/stacktower](https://github.com/stacktower-io/stacktower) - Visualize package dependencies as XKCD-style tower diagrams. Supports Python, Rust, JavaScript, Ruby, PHP, Java, and Go.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
@@ -2726,7 +2727,7 @@
 - [danvk/webdiff](https://github.com/danvk/webdiff) - Two-column web-based git difftool
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
-- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - See, hear, and interact on your local devices.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 - [jvns/git-commit-folders](https://github.com/jvns/git-commit-folders) - 
 - [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
@@ -3364,7 +3365,6 @@
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning.
 - [razorblade23/PyCrucible](https://github.com/razorblade23/PyCrucible) - A robust, cross-platform builder and launcher for Python apps using UV. Built with Rust.
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
 - [AllexVeldman/pyoci](https://github.com/AllexVeldman/pyoci) - Publish and install private python packages using OCI/docker registries.
@@ -3428,7 +3428,7 @@
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [proteanhq/protean](https://github.com/proteanhq/protean) - Pragmatic Framework for Ambitious Applications
-- [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client written in Python
+- [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A codesigning tool for Python packages
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [hyperdiv/hyperdiv](https://github.com/hyperdiv/hyperdiv) - Build reactive web UIs in Python
 - [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
@@ -3923,7 +3923,7 @@
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
-- [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client written in Python
+- [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A codesigning tool for Python packages
 - [dymmond/ravyn](https://github.com/dymmond/ravyn) - Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
