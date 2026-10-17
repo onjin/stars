@@ -600,7 +600,7 @@
 
 ## Kotlin 
 
-- [rrajath/grove](https://github.com/rrajath/grove) - A task management and note-taking app for Android that is compatible with org-mode
+- [rrajath/bloom](https://github.com/rrajath/bloom) - A task management and note-taking app for Android that is compatible with org-mode
 - [ShiftHackZ/Catppuccin-Android-Library](https://github.com/ShiftHackZ/Catppuccin-Android-Library) - An easy way to implement Catppuccin soothing pastel theme in your Android Applications.
 
 ## Lua 
