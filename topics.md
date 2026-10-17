@@ -648,7 +648,6 @@
 
 ## cli 
 
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [amalfra/junit-cli-report-viewer](https://github.com/amalfra/junit-cli-report-viewer) - A tool to generate CLI reports from JUnit XML format file
 - [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -2629,7 +2628,7 @@
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [deepin-community/waypipe](https://github.com/deepin-community/waypipe) - 
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
-- [rrajath/grove](https://github.com/rrajath/grove) - A task management and note-taking app for Android that is compatible with org-mode
+- [rrajath/bloom](https://github.com/rrajath/bloom) - A task management and note-taking app for Android that is compatible with org-mode
 - [rgsoda/lazyjenkins](https://github.com/rgsoda/lazyjenkins) - tui wrapper for jk binary
 - [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents.
 - [Cu3PO42/pam_shim](https://github.com/Cu3PO42/pam_shim) - 
