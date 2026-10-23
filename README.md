@@ -183,7 +183,6 @@
 
 ## CSS 
 
-- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz.
 - [mikemai2awesome/mcss](https://github.com/mikemai2awesome/mcss) - A modern classless CSS framework inspired by the typefaces of Matthew Carter.
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
@@ -260,7 +259,7 @@
 
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent.
-- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.
 - [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management CLI and TUI for the terminal.
 - [rgsoda/lazyjenkins](https://github.com/rgsoda/lazyjenkins) - tui wrapper for jk binary
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
@@ -278,7 +277,7 @@
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [CodeOne45/vex-tui](https://github.com/CodeOne45/vex-tui) - A beautiful, fast, and feature-rich terminal-based Excel and CSV viewer & editor built with Go.
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go
-- [AvengeMedia/dgop](https://github.com/AvengeMedia/dgop) - API & CLI for System & Process  Monitoring
+- [duxlabs-dev/dux-gop](https://github.com/duxlabs-dev/dux-gop) - API and CLI for system and process monitoring from Dux Labs
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -443,6 +442,7 @@
 
 ## HTML 
 
+- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - An open programming typeface built on Iosevka. Compact, geometric, and tuned for editors and terminals.
 - [onjin/YubiKey-Guide](https://github.com/onjin/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [greggshorthand/greggshorthand.github.io](https://github.com/greggshorthand/greggshorthand.github.io) - 
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -959,7 +959,7 @@
 - [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python) - Python SDK for CloudEvents
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
-- [proteanhq/protean](https://github.com/proteanhq/protean) - Pragmatic Framework for Ambitious Applications
+- [proteanhq/protean](https://github.com/proteanhq/protean) - The Python framework for domain-driven systems
 - [etimberg/pycircuitbreaker](https://github.com/etimberg/pycircuitbreaker) - Python Implementation of the Circuit Breaker Pattern
 - [magic-wormhole/magic-wormhole-mailbox-server](https://github.com/magic-wormhole/magic-wormhole-mailbox-server) - the rendezvous/mailbox server for magic-wormhole clients
 - [florimondmanca/httpx-sse](https://github.com/florimondmanca/httpx-sse) - Consume Server-Sent Event (SSE) messages with HTTPX
@@ -1363,7 +1363,7 @@
 
 ## QML 
 
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
+- [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 
 ## Reason 
@@ -1648,6 +1648,7 @@
 
 ## TypeScript 
 
+- [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [gepheum/skir](https://github.com/gepheum/skir) - Types that travel.
@@ -1667,7 +1668,7 @@
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [cerbos/query-plan-adapters](https://github.com/cerbos/query-plan-adapters) - Repo of adapters converting a Cerbos Query Plan to a data fetching layer
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
+- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue's AI agents connect, migrate and implement enterprise systems. Cloud-hosted or on your own infrastructure.
 - [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
