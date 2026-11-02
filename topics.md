@@ -292,6 +292,7 @@
 ## agent-skills 
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
 
 ## agents 
 
@@ -948,7 +949,7 @@
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performance IDE for Jupyter Notebooks
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
@@ -1299,7 +1300,7 @@
 
 ## embedded 
 
-- [kaspizzo/lamarzocco](https://github.com/kaspizzo/lamarzocco) - Community ESP32-S3 round controller firmware for La Marzocco machines with BLE/cloud setup and a local setup portal.
+- [kaspizzo/lamarzocco](https://github.com/kaspizzo/lamarzocco) - Community ESP32-S3 round controller for La Marzocco machines: BLE/cloud control, local setup portal, recipe presets and an experimental BLE scale bridge for Linea Mini (legacy Acaia Lunar; Lunar 2021/
 
 ## emoji 
 
@@ -1312,7 +1313,7 @@
 
 ## esp32 
 
-- [kaspizzo/lamarzocco](https://github.com/kaspizzo/lamarzocco) - Community ESP32-S3 round controller firmware for La Marzocco machines with BLE/cloud setup and a local setup portal.
+- [kaspizzo/lamarzocco](https://github.com/kaspizzo/lamarzocco) - Community ESP32-S3 round controller for La Marzocco machines: BLE/cloud control, local setup portal, recipe presets and an experimental BLE scale bridge for Linea Mini (legacy Acaia Lunar; Lunar 2021/
 
 ## fastapi 
 
@@ -1594,7 +1595,7 @@
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! Build your own beacon using Xiao-BLE
 - [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performance IDE for Jupyter Notebooks
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -2565,6 +2566,7 @@
 
 - [ormsgpack/ormsgpack](https://github.com/ormsgpack/ormsgpack) - MessagePack serialization library for Python derived from orjson, written in Rust using PyO3
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
+- [assertpy/assertpy](https://github.com/assertpy/assertpy) - Fluent, fully typed assertion library for Python: your type checker sees only the assertions that fit the value, and every failure carries a structured diff. Soft assertions, polling, inline snapshots
 
 ## obsidian 
 
@@ -3103,7 +3105,6 @@
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [Eyepea/API-Hour](https://github.com/Eyepea/API-Hour) - Write efficient network daemons (HTTP, SSH...) with ease.
 - [dockpit/pit](https://github.com/dockpit/pit) - Painless isolation for your (micro)service development process
-- [assertpy/assertpy](https://github.com/assertpy/assertpy) - Simple assertion library for unit testing in python with a fluent API
 - [uber/clay](https://github.com/uber/clay) - Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [bitly/oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [docker-archive-public/docker.machine](https://github.com/docker-archive-public/docker.machine) - Machine management for a container-centric world
@@ -3613,6 +3614,7 @@
 - [kivy/pyjnius](https://github.com/kivy/pyjnius) - Access Java classes from Python
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [toastdriven/restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python.
+- [assertpy/assertpy](https://github.com/assertpy/assertpy) - Fluent, fully typed assertion library for Python: your type checker sees only the assertions that fit the value, and every failure carries a structured diff. Soft assertions, polling, inline snapshots
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and fast
 - [nameko/nameko](https://github.com/nameko/nameko) - Python framework for building microservices
@@ -4229,6 +4231,7 @@
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
+- [assertpy/assertpy](https://github.com/assertpy/assertpy) - Fluent, fully typed assertion library for Python: your type checker sees only the assertions that fit the value, and every failure carries a structured diff. Soft assertions, polling, inline snapshots
 
 ## tui 
 
