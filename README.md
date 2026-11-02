@@ -95,7 +95,7 @@
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [deepin-community/waypipe](https://github.com/deepin-community/waypipe) - 
 - [Cu3PO42/pam_shim](https://github.com/Cu3PO42/pam_shim) - 
-- [kaspizzo/lamarzocco](https://github.com/kaspizzo/lamarzocco) - Community ESP32-S3 round controller for La Marzocco machines: BLE/cloud control, local setup portal, recipe presets and an experimental BLE scale bridge for Linea Mini (legacy Acaia Lunar; BOOKOO Mini
+- [kaspizzo/lamarzocco](https://github.com/kaspizzo/lamarzocco) - Community ESP32-S3 round controller for La Marzocco machines: BLE/cloud control, local setup portal, recipe presets and an experimental BLE scale bridge for Linea Mini (legacy Acaia Lunar; Lunar 2021/
 - [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui) - alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite USB Drivers
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
@@ -115,7 +115,6 @@
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
 - [clibs/entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FI
-- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [alex-courtis/way-displays](https://github.com/alex-courtis/way-displays) - way-displays: Auto Manage Your Wayland Displays
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [drhsqlite/pikchr](https://github.com/drhsqlite/pikchr) - Mirror for Pikchr
@@ -160,6 +159,7 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [TeskaLabs/cysimdjson](https://github.com/TeskaLabs/cysimdjson) - Very fast Python JSON parsing library
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
+- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [lcompilers/lpython](https://github.com/lcompilers/lpython) - Python compiler
 - [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a wayland wallpaper utility with IPC controls.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -514,6 +514,7 @@
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [UI5/openui5](https://github.com/UI5/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
+- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [pycr/pythongrid](https://github.com/pycr/pythongrid) - Easy datagrid for Python Flask web framework
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -1285,7 +1286,7 @@
 - [django-waffle/django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django
 - [disqus/gargoyle](https://github.com/disqus/gargoyle) - Feature switches in Django
 - [Eyepea/API-Hour](https://github.com/Eyepea/API-Hour) - Write efficient network daemons (HTTP, SSH...) with ease.
-- [assertpy/assertpy](https://github.com/assertpy/assertpy) - Simple assertion library for unit testing in python with a fluent API
+- [assertpy/assertpy](https://github.com/assertpy/assertpy) - Fluent, fully typed assertion library for Python: your type checker sees only the assertions that fit the value, and every failure carries a structured diff. Soft assertions, polling, inline snapshots
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [uber/clay](https://github.com/uber/clay) - Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [onefinestay/cinch](https://github.com/onefinestay/cinch) - making CI a cinch
@@ -1694,7 +1695,6 @@
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
