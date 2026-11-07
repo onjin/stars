@@ -262,6 +262,7 @@
 - [virtual-reality](#virtual-reality)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [wagtail](#wagtail)
@@ -664,7 +665,7 @@
 - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
-- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your coding agent
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [TKanX/bio-forge](https://github.com/TKanX/bio-forge) - A high-performance, pure Rust toolkit for standardizing and preparing biomolecular systems (proteins & nucleic acids). It heals missing atoms, resolves protonation states, adds solvation, and unifies 
@@ -3368,7 +3369,7 @@
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included. WASI Supported.
-- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your coding agent
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [mgaitan/python-package-copier-template](https://github.com/mgaitan/python-package-copier-template) - Copier template for Python projects managed by uv.
 - [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
@@ -4167,7 +4168,7 @@
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [gschurck/nixquick](https://github.com/gschurck/nixquick) - Quickly search, install and uninstall nixpkgs across your different nix configurations
 - [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
-- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your coding agent
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
@@ -4240,7 +4241,7 @@
 - [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management CLI and TUI for the terminal.
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
-- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
+- [fasouto/termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your coding agent
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
@@ -4407,6 +4408,15 @@
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
+
+## vscode 
+
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review for Neovim with VSCode style diffs
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [run-ai/genv](https://github.com/run-ai/genv) - GPU environment and cluster management with LLM support
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+- [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 
 ## vue 
 
