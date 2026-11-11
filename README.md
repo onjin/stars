@@ -90,7 +90,7 @@
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [deepin-community/waypipe](https://github.com/deepin-community/waypipe) - 
 - [Cu3PO42/pam_shim](https://github.com/Cu3PO42/pam_shim) - 
-- [kaspizzo/lamarzocco](https://github.com/kaspizzo/lamarzocco) - Community ESP32-S3 round controller for La Marzocco machines: BLE/cloud control, local setup portal, recipe presets and an experimental BLE scale bridge for Linea Mini (legacy Acaia Lunar; Lunar 2021/
+- [kaspizzo/lamarzocco](https://github.com/kaspizzo/lamarzocco) - Community ESP32-S3 round controller for La Marzocco machines: BLE/cloud control, local portal, Wi-Fi firmware updates, recipe presets and an experimental Linea Mini BLE scale bridge (legacy Acaia Luna
 - [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui) - alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite USB Drivers
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
@@ -153,7 +153,7 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [TeskaLabs/cysimdjson](https://github.com/TeskaLabs/cysimdjson) - Very fast Python JSON parsing library
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
-- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
+- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Low-latency client-server engine built around Noise, io_uring & SIMD, with synchronous handlers, server-side batching, and C, C++, Python & Rust bindings ☎️
 - [lcompilers/lpython](https://github.com/lcompilers/lpython) - Python compiler
 - [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a wayland wallpaper utility with IPC controls.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
