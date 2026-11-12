@@ -699,7 +699,7 @@
 - [finix-community/finix](https://github.com/finix-community/finix) - A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space
 - [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations.
 - [denful/import-tree](https://github.com/denful/import-tree) - Import all nix files in a directory tree.
-- [nix-community/nix-wrapper-modules](https://github.com/nix-community/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]
+- [nix-community/nix-wrapper-modules](https://github.com/nix-community/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainers=@BirdeeHub,@zenoli]
 - [jacopone/antigravity-nix](https://github.com/jacopone/antigravity-nix) - Auto-updating Nix package for Google Antigravity agentic IDE. Updates 3x/week. FHS environment with overlay support for NixOS/Home Manager.
 - [Dauliac/nix-oci](https://github.com/Dauliac/nix-oci) - Flake-parts module to manage OCI repositories
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
@@ -842,7 +842,7 @@
 
 ## Python 
 
-- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - 🐋 Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.
+- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM: 41.1 cold pp, 9.1 N=1 tg, up to 25.3 spec tok/s) & 30B MoEs (22.4 N=1 / 111.6 spec tok/s) on 64GB CPU (0 GPUs).
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents.
@@ -1302,7 +1302,7 @@
 - [gnosek/shoebox](https://github.com/gnosek/shoebox) - A tiny, unprivileged, somewhat Docker-compatible container engine
 - [spotify/dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 - [falcony-io/sqlalchemy-searchable](https://github.com/falcony-io/sqlalchemy-searchable) - Fulltext searchable models for SQLAlchemy. Only supports PostgreSQL
-- [Doist/redis_wrap](https://github.com/Doist/redis_wrap) - Implements a wrapper for Redis datatypes so they mimic the datatypes found in Python.
+- [todoist/redis_wrap](https://github.com/todoist/redis_wrap) - Implements a wrapper for Redis datatypes so they mimic the datatypes found in Python.
 - [josiahcarlson/rom](https://github.com/josiahcarlson/rom) - Redis object mapper for Python
 - [kiddouk/redisco](https://github.com/kiddouk/redisco) - A Python Library for Simple Models and Containers Persisted in Redis
 - [Infinidat/infi.projector](https://github.com/Infinidat/infi.projector) - 
@@ -1323,7 +1323,7 @@
 - [django-oscar/django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
 - [gunnery/gunnery](https://github.com/gunnery/gunnery) - Remote task execution tool
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
+- [django-commons/django-push-notifications](https://github.com/django-commons/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [jpadilla/django-rest-framework-jwt](https://github.com/jpadilla/django-rest-framework-jwt) - JSON Web Token Authentication support for Django REST Framework
 - [oremj/fabdeploytools](https://github.com/oremj/fabdeploytools) - Fabric deployment helpers
 - [aksiksi/dubizzle](https://github.com/aksiksi/dubizzle) - A simple scraping-based API in Python for Dubizzle.
