@@ -339,7 +339,7 @@
 
 ## ai-agents 
 
-- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - 🐋 Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.
+- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM: 41.1 cold pp, 9.1 N=1 tg, up to 25.3 spec tok/s) & 30B MoEs (22.4 N=1 / 111.6 spec tok/s) on 64GB CPU (0 GPUs).
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
@@ -651,7 +651,7 @@
 
 ## claude-code 
 
-- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - 🐋 Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.
+- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM: 41.1 cold pp, 9.1 N=1 tg, up to 25.3 spec tok/s) & 30B MoEs (22.4 N=1 / 111.6 spec tok/s) on 64GB CPU (0 GPUs).
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
@@ -1163,7 +1163,7 @@
 - [django-oscar/django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
-- [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
+- [django-commons/django-push-notifications](https://github.com/django-commons/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [jpadilla/django-rest-framework-jwt](https://github.com/jpadilla/django-rest-framework-jwt) - JSON Web Token Authentication support for Django REST Framework
 
 ## docker 
@@ -1256,7 +1256,7 @@
 ## dotfiles 
 
 - [liixini/skwd-wall](https://github.com/liixini/skwd-wall) - An aesthetics-first wallpaper selector and engine with extreme performance that supports images, videos and Wallpaper Engine Scenes. Wallpaper-based theming with Matugen and granular colour fixing as 
-- [nix-community/nix-wrapper-modules](https://github.com/nix-community/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]
+- [nix-community/nix-wrapper-modules](https://github.com/nix-community/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainers=@BirdeeHub,@zenoli]
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
@@ -3134,7 +3134,7 @@
 - [moyaproject/moya](https://github.com/moyaproject/moya) - Web development platform
 - [gnosek/shoebox](https://github.com/gnosek/shoebox) - A tiny, unprivileged, somewhat Docker-compatible container engine
 - [falcony-io/sqlalchemy-searchable](https://github.com/falcony-io/sqlalchemy-searchable) - Fulltext searchable models for SQLAlchemy. Only supports PostgreSQL
-- [Doist/redis_wrap](https://github.com/Doist/redis_wrap) - Implements a wrapper for Redis datatypes so they mimic the datatypes found in Python.
+- [todoist/redis_wrap](https://github.com/todoist/redis_wrap) - Implements a wrapper for Redis datatypes so they mimic the datatypes found in Python.
 - [josiahcarlson/rom](https://github.com/josiahcarlson/rom) - Redis object mapper for Python
 - [kiddouk/redisco](https://github.com/kiddouk/redisco) - A Python Library for Simple Models and Containers Persisted in Redis
 - [Infinidat/infi.projector](https://github.com/Infinidat/infi.projector) - 
@@ -3637,7 +3637,7 @@
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
-- [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
+- [django-commons/django-push-notifications](https://github.com/django-commons/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [jpadilla/django-rest-framework-jwt](https://github.com/jpadilla/django-rest-framework-jwt) - JSON Web Token Authentication support for Django REST Framework
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [martinrusev/imbox](https://github.com/martinrusev/imbox) - Python IMAP for Agentic Workflows
