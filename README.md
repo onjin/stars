@@ -1402,6 +1402,7 @@
 
 ## Rust 
 
+- [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs.
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [cachix/casita](https://github.com/cachix/casita) - A content-addressed object store, written in Rust.
 - [liixini/skwd-wall](https://github.com/liixini/skwd-wall) - An aesthetics-first wallpaper selector and engine with extreme performance that supports images, videos and Wallpaper Engine Scenes. Wallpaper-based theming with Matugen and granular colour fixing as 
@@ -1646,6 +1647,7 @@
 
 ## TypeScript 
 
+- [zensical/studio](https://github.com/zensical/studio) - Zensical Studio – Refactor documentation like code
 - [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
