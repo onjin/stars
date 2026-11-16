@@ -167,6 +167,7 @@
 - [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [minecraft](#minecraft)
+- [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -294,7 +295,7 @@
 ## agent-skills 
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
+- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV, plus FastAPI servers and Python clients from OpenAPI.
 
 ## agents 
 
@@ -1343,7 +1344,7 @@
 - [laurentS/slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI
 - [smithyhq/sqladmin](https://github.com/smithyhq/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for FastApi & Starlette applications
-- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
+- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV, plus FastAPI servers and Python clients from OpenAPI.
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [Kludex/mangum](https://github.com/Kludex/mangum) - AWS Lambda support for ASGI applications
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD & Onion Architecture Example and Techniques
@@ -1672,7 +1673,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
-- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
+- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV, plus FastAPI servers and Python clients from OpenAPI.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 
@@ -1690,6 +1691,7 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [red/red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cros
 
@@ -2390,6 +2392,10 @@
 
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
+
+## mobile 
+
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 ## mongodb 
 
@@ -3497,7 +3503,7 @@
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
+- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV, plus FastAPI servers and Python clients from OpenAPI.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [snok/asgi-correlation-id](https://github.com/snok/asgi-correlation-id) - Request ID propagation for ASGI apps
 - [python-openapi/openapi-core](https://github.com/python-openapi/openapi-core) - Openapi-core is a Python library that adds client-side and server-side support for the OpenAPI v3.0 and OpenAPI v3.1 and OpenAPI v3.2 specification.
@@ -3660,7 +3666,6 @@
 - [harsxv/tinystatus](https://github.com/harsxv/tinystatus) - Tiny status page generated by a Python script
 - [psqlpy-python/psqlpy](https://github.com/psqlpy-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
-- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python) - Python SDK for CloudEvents
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
 - [dymmond/ravyn](https://github.com/dymmond/ravyn) - Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.
