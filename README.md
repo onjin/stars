@@ -83,7 +83,7 @@
 ## Astro 
 
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## C 
 
@@ -410,7 +410,7 @@
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [gophergala/learn-Go-the-hard-way](https://github.com/gophergala/learn-Go-the-hard-way) - learn Go by coding.
